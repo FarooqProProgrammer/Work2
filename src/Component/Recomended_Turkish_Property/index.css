@@ -1,0 +1,10 @@
+.card__bootstrap {
+    width: 300px;
+    height: 400px;
+    border: 1px solid black;
+}
+.card__bootstrap img {
+    height: 200px;
+}
+
+
