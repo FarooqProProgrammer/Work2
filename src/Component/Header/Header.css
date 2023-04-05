@@ -1,0 +1,289 @@
+.Header {
+    width:100%;
+    height:130px;
+    display: flex;
+}
+.logo {
+    flex:1;
+    
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo img {
+    width:140px;
+    height: 140px;
+}
+.links {
+    flex:5;
+    
+}
+.upper__links {
+    width:100%;
+    height:65px;
+    
+    display: flex;
+    justify-content: flex-end;
+    align-items: center;
+}
+.upper__links .logo__tag  img{
+    width: 100px;
+    height: 40px;
+}
+.bottoms__links {
+    width:100%;
+    height:65px;
+    
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding-left: 10px;
+    padding-right: 10px;
+}
+.bottoms__links span a {
+    color: black;
+    font-weight: 600;
+}
+
+.buttons {
+    flex:0.7;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: flex-start;
+    padding-left: 10px;
+}
+.buttons .button__bottom {
+    width: 100%;
+    height: 70px;
+    position: relative;
+}
+.button__bottom__register {
+    position: absolute;
+    bottom: 10px;
+    color: black;
+}
+.button__bottom__login {
+    position: absolute;
+    bottom: 10px;
+    left: 80px;
+    color: black;
+}
+.Mobile__menu {
+   
+    flex: 1;
+    height: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    display: none;
+}
+/* --------------------------------------------------------------------------- */
+.Mobile__responsive__bar {
+    position: absolute;
+    width: 100%;
+    height: 100vh;
+    background-color: aliceblue;
+}
+/* --------------------------------------------------------------------------- */
+
+.currency {
+    border: 1px solid rgb(185, 48, 6);
+    padding: 7px;
+    margin-left: 21px;
+    -webkit-box-ordinal-group: 3;
+    order: 2;
+    box-sizing: border-box;
+}
+
+.currency_1 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.currency_2 {
+    box-sizing: border-box;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 14px;
+    font-family: FontAwesome;
+    font-size: 14px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.currency_3 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.currency_5 {
+    box-sizing: border-box;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 14px;
+    font-family: FontAwesome;
+    font-size: 14px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.currency_6 {
+    color: rgb(185, 48, 6);
+    padding: 0px 7px;
+    text-decoration: none solid rgb(185, 48, 6);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.currency_7 {
+    box-sizing: border-box;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 14px;
+    font-family: FontAwesome;
+    font-size: 14px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+.currency_8 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.currency_9 {
+    box-sizing: border-box;
+    display: inline-block;
+    font-style: normal;
+    font-variant: normal;
+    font-kerning: auto;
+    font-optical-sizing: auto;
+    font-feature-settings: normal;
+    font-variation-settings: normal;
+    font-weight: 400;
+    font-stretch: 100%;
+    line-height: 14px;
+    font-family: FontAwesome;
+    font-size: 14px;
+    text-rendering: auto;
+    -webkit-font-smoothing: antialiased;
+}
+
+/* -------------------------------------------------------------------- */
+.style-0 {
+    padding: 0px 21px;
+    -webkit-box-ordinal-group: 4;
+    order: 3;
+    box-sizing: border-box;
+}
+
+.style-1 {
+    color: rgb(185, 48, 6);
+    padding: 0px 7px;
+    border-right: 1px solid rgb(185, 48, 6);
+    text-decoration: none solid rgb(185, 48, 6);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.style-2 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    border-right: 1px solid rgb(185, 48, 6);
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.style-3 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    border-right: 1px solid rgb(185, 48, 6);
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.style-4 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    border-right: 1px solid rgb(185, 48, 6);
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.style-5 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    border-right: 1px solid rgb(185, 48, 6);
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+
+.style-6 {
+    color: rgb(0, 0, 0);
+    padding: 0px 7px;
+    text-decoration: none solid rgb(0, 0, 0);
+    transition: all 0.3s ease 0s;
+    cursor: pointer;
+    box-sizing: border-box;
+}
+/* -------------------------------------------------------------------- */
+
+
+.model___header {
+    width: 100%;
+    height: 100vh;
+}
+/* ------------------- RESPONSIVE MENU ------------------------------ */
+@media (max-width:1000px) {
+    .links ,.buttons {
+        display: none;
+    }
+    .Mobile__menu {
+        display: flex;
+    }
+}
+/* ------------------- RESPONSIVE MENU ------------------------------ */
