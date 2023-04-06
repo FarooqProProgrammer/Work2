@@ -10,11 +10,13 @@ import TurkeyProperty from '../../Component/TurkeyProperty'
 import Recomended_Turkish_Property from '../../Component/Recomended_Turkish_Property'
 import TurkeyTv from '../../Component/TurkeyTv'
 import AdvisorDesk from '../../Component/AdvisorDesk'
+import HeroSection from '../../Component/Hero__Section'
 
 export default function Home() {
   return (
     <div>
-      <Hero />
+      <HeroSection />
+      {/* <Hero /> */}
       <Recomended_Turkish_Property />
       <Citizen />
       {/* <TurkeyAdvisor /> */}

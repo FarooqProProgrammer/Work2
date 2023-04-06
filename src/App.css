@@ -17770,9 +17770,9 @@ header .main-header .burgermenu {
   transition: all 200ms
 }
 
-#search-filter {
+/* #search-filter {
   display: none !important
-}
+} */
 
 [data-slug="realestate-list"] #search-filter,
 body.homepage #search-filter,
@@ -19136,29 +19136,30 @@ body.property-endpage.real_estate #search-filter {
   z-index: 1
 }
 
-/* #myTabContent #tab-1 {
-  background-image: url("../../front/image/home/tab-backgrounds/bg-tab-1.jpg")
-}
+#myTabContent #tab-1 {
+  background-image: url("https://www.propertyturkey.com/front/image/home/tab-backgrounds/bg-tab-mobile-1.jpg")
+} 
+
 
 #myTabContent #tab-2 {
-  background-image: url("../../front/image/home/tab-backgrounds/bg-tab-2.jpg")
+  background-image: url("https://www.propertyturkey.com/front/image/home/tab-backgrounds/bg-tab-mobile-1.jpg")
 }
 
 #myTabContent #tab-3 {
-  background-image: url("../../front/image/home/tab-backgrounds/bg-tab-3.jpg")
+  background-image: url("https://www.propertyturkey.com/front/image/home/tab-backgrounds/bg-tab-mobile-1.jpg")
 }
 
 #myTabContent #tab-4 {
-  background-image: url("../../front/image/home/tab-backgrounds/bg-tab-4.jpg")
+  background-image: url("https://www.propertyturkey.com/front/image/home/tab-backgrounds/bg-tab-mobile-1.jpg")
 }
 
 #myTabContent #tab-5 {
-  background-image: url("../../front/image/home/tab-backgrounds/bg-tab-5.jpg")
+  background-image: url("https://www.propertyturkey.com/front/image/home/tab-backgrounds/bg-tab-mobile-1.jpg")
 }
 
 #myTabContent #tab-6 {
-  background-image: url("../../front/image/home/tab-backgrounds/bg-tab-6.jpg")
-} */
+  background-image: url("https://www.propertyturkey.com/front/image/home/tab-backgrounds/bg-tab-mobile-1.jpg")
+} 
 
 #myTabContent .nav-link {
   background-color: #82181a;
@@ -28820,7 +28821,7 @@ footer {
     border-bottom: 1px solid #ddd
   }
 
-  [data-slug='realestate-list'] .showRefId #search .search-filter-buttons,
+  /* [data-slug='realestate-list'] .showRefId #search .search-filter-buttons,
   [data-slug='realestate-list'] .hideRefId #search .search-filter-buttons {
     display: none !important
   }
@@ -28828,7 +28829,7 @@ footer {
   [data-slug='realestate-list'] .showRefId #search #searchh-iconss,
   [data-slug='realestate-list'] .hideRefId #search #searchh-iconss {
     display: none !important
-  }
+  } */
 
   [data-slug='realestate-list'] .showRefId #search .searchMore,
   [data-slug='realestate-list'] .hideRefId #search .searchMore {

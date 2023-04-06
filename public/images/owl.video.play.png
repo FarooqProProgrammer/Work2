@@ -1,0 +1,1558 @@
+<!doctype html>
+<!--[if IE 9]>
+<html lang="en" dir="ltr" class="ie"><![endif]-->
+<!--[if IE 8]>
+<html lang="en" dir="ltr" class="ie ie8"><![endif]-->
+<!--[if (gt IE 9)|!(IE)]><!-->
+<html lang="en" dir="ltr"> <!--<![endif]-->
+<head>
+    <title> 404 - Property Turkey  </title>
+    <meta name="theme-color" content="#fff">
+<link rel="icon" sizes="192x192" href="logo-192x192.png">
+    <meta http-equiv="Cache-control" content="public">
+    <meta name="viewport" content="width=device-width, initial-scale=1, maximum-scale=1">
+    <meta charset="UTF-8">
+    <meta name="HandheldFriendly" content="True">
+    <meta name="google-site-verification" content="A-RAP9l_khsBiDJNZscqyHwFvUCFDFJKg8SWZNv2tsw">
+    <meta name="MobileOptimized" content="320">
+    <meta property="og:site_name" content="Property Turkey">
+    <meta property="og:type" content="website">
+    <meta name="baidu-site-verification" content="apR9FZ86pl">
+    <meta property="og:url" content="https://www.propertyturkey.com/front/build/owl.video.play.png">
+    <link href="https://plus.google.com/+Propertyturkey" rel="publisher">
+    <!-- facebook -->
+    <meta name="facebook-domain-verification" content="r5u93j09xy81upjxhmxtapwo25dipd">
+            <meta property="fb:app_id" content="146939725490204">
+                <meta property="pinterest" content="https://pinterest.com/PropertyTurkey/">
+    <!-- RSS feeds -->
+<link rel="alternate" type="application/rss+xml" title="Property Turkey - Subscribe to get the latest News" href="https://www.propertyturkey.com/rss/news">
+<link rel="alternate" type="application/rss+xml" title="Property Turkey - Blog Guide" href="https://www.propertyturkey.com/rss/blog">
+<link rel="alternate" type="application/rss+xml" title="Property Turkey - Latest Properties" href="https://www.propertyturkey.com/rss/realestate">
+<link rel="alternate" type="application/rss+xml" title="Property Turkey - Client Testimonials" href="https://www.propertyturkey.com/rss/testimonials">
+<!-- Yandex -->
+<meta name="yandex-verification" content="5692a8820f5ae22f">
+
+<link rel="stylesheet" href="../css/bootstrap.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+<!-- font-awesome -->
+<link rel="stylesheet" href="../css/all.min.css" crossorigin="anonymous" referrerpolicy="no-referrer">
+
+<!-- // css -->
+<link href="../css/bundleCSS.css" rel="stylesheet" type="text/css">
+<!-- // JS -->
+
+
+<!--[if lt IE 10]>
+<script src="https://www.propertyturkey.com/front/js/library/html5shiv.min.js"></script>
+<script src="https://www.propertyturkey.com/front/js/library/respond.min.js"></script>
+<script src="https://www.propertyturkey.com/front/js/library/placeholders.min.js"></script>
+<![endif]-->
+
+<script type="556fd454bd9c2c09a017ba2d-text/javascript">
+    // globals
+    BASEURL = "https://www.propertyturkey.com"
+    JSPATH = "https://www.propertyturkey.com/front/js/library/"
+    CSSPATH = "https://www.propertyturkey.com/front/css"
+    CURRENT_URL = window.location.href;
+    SITE_URL = "https://www.propertyturkey.com";
+    VERSION = "1.2.224100699"
+
+    LABELS = {
+        items: 'properties',
+        remove_from_enquiry_list: 'In Shortlist',
+        add_to_enq: '+ Shortlist',
+        all: 'All',
+        share: ' Shares',
+        offAlert: 'Alert Off',
+        onAlert:'Alert On',
+        'savefav': 'Save',
+        'unsavefav':'Unsave',
+    }
+
+
+    HELPERS = {
+        addToSession: 'https://www.propertyturkey.com/addToSession'
+    }
+</script>
+
+
+<link href="../fonts/pt_favicon.svg" rel="shortcut icon" type="image/x-icon">
+<!-- google ld+json snippits -->
+<script type="application/ld+json">
+    { "@context" : "http://schema.org",
+        "@type" : "Organization",
+        "url": "https://www.propertyturkey.com",
+        "logo": "https://www.propertyturkey.com/front/image/logo.png",
+        "contactPoint" : [
+            {
+                "@type" : "ContactPoint",
+                "telephone" : "+ 44 (0) 20 8371 0059",
+                "contactType" : "sales",
+                "availableLanguage": ["Turkish", "English", "Russian"]
+            },
+            {
+                "@type" : "ContactPoint",
+                "telephone" : "+90 (0) 212 215 0022",
+                "contactType" : "sales",
+                "availableLanguage": ["Turkish", "English", "Russian"]
+            }
+        ]
+    }
+</script>
+<link rel="manifest" href="https://www.propertyturkey.com/front/manifest.json">
+
+<!-- Meta Pixel Code -->
+<script type="556fd454bd9c2c09a017ba2d-text/javascript">
+    !function(f,b,e,v,n,t,s) {
+        if(f.fbq)return;n=f.fbq=function(){
+            n.callMethod? n.callMethod.apply(n,arguments):n.queue.push(arguments)
+        };
+        if(!f._fbq)f._fbq=n;n.push=n;n.loaded=!0;n.version='2.0';
+        n.queue=[];t=b.createElement(e);t.async=!0;
+        t.src=v;s=b.getElementsByTagName(e)[0];
+        s.parentNode.insertBefore(t,s)
+    }
+    (window, document,'script', 'https://connect.facebook.net/en_US/fbevents.js');
+    fbq('init', '344702274540115');
+    fbq('track', 'PageView');
+</script>
+<noscript>
+    <img height="1" width="1" style="display:none" src="https://www.facebook.com/tr?id=344702274540115&amp;ev=PageView&amp;noscript=1">
+</noscript>
+<!-- End Meta Pixel Code -->
+
+    <style>
+        #mobileLogo{
+            display: none !important;
+        }
+        @media  all and (max-width: 480px) {
+            #desktopLogo{
+                display: none !important;
+            }
+
+            #mobileLogo{
+                width: 180px !important;
+                display: block !important;
+            }
+            #headerSearchIcon{
+                display: none !important;
+            }
+
+            .responsive-links{
+                display: none !important;
+            }
+
+        }
+
+        .browse-text{
+            direction: inherit;
+        }
+    </style>
+        <!-- Submit Content To Baidu For Indexation (Chinese only) -->
+    </head>
+<body data-slug="property" class="_development      front  ">
+<div id="stickLayer" style="display:none;" class="stick_popup">
+    <div class="stick_content">
+        <h3 class="stick_content-title"> Do not miss this opportunity  </h3>
+        <br>
+        <div>
+            <img class="lazyload" data-src="https://www.propertyturkey.com/front/image/background/euro-banner_orig.jpg">
+            <h4 class="stick_content-subtitle"></h4>
+            <a href="https://www.propertyturkey.com/real_estate/1322-early-bird-prices-sisli-istanbul-hotel-style-apartments"> More Details</a>
+        </div>
+    </div>
+</div>
+
+
+
+
+<!-- Google Tag Manager English -->
+<noscript>
+    <iframe src="//www.googletagmanager.com/ns.html?id=GTM-N45HRG" height="0" width="0" style="display:none;visibility:hidden"></iframe>
+</noscript>
+<script type="556fd454bd9c2c09a017ba2d-text/javascript">(function (w, d, s, l, i) {
+        w[l] = w[l] || [];
+        w[l].push({
+            'gtm.start':
+                new Date().getTime(), event: 'gtm.js'
+        });
+        var f = d.getElementsByTagName(s)[0],
+            j = d.createElement(s), dl = l != 'dataLayer' ? '&l=' + l : '';
+        j.async = true;
+        j.src =
+            '//www.googletagmanager.com/gtm.js?id=' + i + dl;
+        f.parentNode.insertBefore(j, f);
+    })(window, document, 'script', 'dataLayer', 'GTM-N45HRG');</script>
+<!-- End Google Tag Manager -->
+
+
+<script src="../js/jquery.js" type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+<script type="556fd454bd9c2c09a017ba2d-text/javascript">
+    var standalone = window.navigator.standalone,
+        userAgent = window.navigator.userAgent.toLowerCase(),
+        safari = /safari/.test(userAgent),
+        ios = /iphone|ipod|ipad/.test(userAgent);
+    android = /android/.test(userAgent);
+    android_webView = /android-webview/.test(userAgent);
+
+    function prompToInstallApp(bool, type) {
+        if (type === 'ios') {
+                                var url = "https://itunes.apple.com/eg/app/property-turkey/id1078608326";
+                    } else if (type === 'android') {
+                                var url = "https://play.google.com/store/apps/details?id=com.kickstartinteractive.propertyturkey";
+                    }
+        if (bool) {
+            window.location.href = url;
+        }
+    }
+
+    if (ios) {
+        if (!standalone && safari) {
+            //browser
+            // prompToInstallApp(confirm("Do you want to install Propertyturkey mobile APP ?"), 'ios')
+        } else if (standalone && !safari) {
+            //standalone
+        } else if (!standalone && !safari) {
+            //uiwebview
+            $('body').addClass('webview');
+        }
+        ;
+    } else {
+        if (android && !android_webView) {
+            // prompToInstallApp(confirm("Do you want to install Propertyturkey mobile APP ?"), 'android')
+        }
+        if (android_webView) {
+            $('body').addClass('webview');
+        }
+    }
+    ;
+</script>
+<div class="notification"></div>
+<header>
+    <!-- Not Active yet -->
+        <div class="header-top ">
+        <div class="wrap-dis-85 flex  content-end items-center hideMb-showDt">
+
+
+            <div class="header-phone-items order-3">
+                            </div>
+
+            <a href="https://www.propertyturkey.com/become-partner" class="flex"><img src="../fonts/partner-button-01.svg" width="95" class="img-fluid" alt></a>
+
+
+            <div class="currencyy order-2">
+
+                                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/3" class title="Sterling Pound  "><i class="fa fa-gbp"></i></a>
+
+                                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/2" class title="Euro "><i class="fa fa-eur"></i></a>
+
+                                <a rel="nofollow" href="javascript:void(0)" class="active" title="Dollar "><i class="fa fa-usd"></i></a>
+
+                                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/4" class title="Turkish Lira "><i class="fa fa-try"></i></a>
+
+                
+            </div>
+
+            <div class="elastic-search d-desk">
+                                <i class="fa fa-search" aria-hidden="true"></i>
+            </div>
+        </div>
+
+
+        <div class="main-header">
+            <div class="flex  items-center content-start position-relative mt-15 content-space-between">
+                <div class="logo">
+                    <a href="https://www.propertyturkey.com" title="Property Turkey" class="logoImg flex items-center content-center flex-direction-column pos-logo-lg" id="desktopLogo"><img src="../fonts/pt_new_logo.svg" alt="Property Turkey">
+                                            </a>
+
+                    <a href="https://www.propertyturkey.com" title="Property Turkey" class="flex items-center content-center flex-direction-column pos-logo-lg" id="mobileLogo"><img src="../fonts/pt-header-logo.svg" alt="Property Turkey">
+                                            </a>
+                    <!-- <div class="info-slogan">
+                    <img src="https://www.propertyturkey.com/front/image/1.png" alt="for life and investment" />
+                </div> -->
+                    <a class="navbutton  tab-inline-block mob-inline-block mobile burgermenu position-abs" href="#"><img src="../fonts/burger-menu.svg"></a>
+                    <div class="elastic-search d-mobile" id="headerSearchIcon">
+                        <img src="../fonts/search.svg" title="search properties">
+                    </div>
+                </div>
+                <nav class="flex">
+                    <div class="mobile closeNavBtn">
+                        <a href="#" class="closeNav"><i class="fa fa-arrow-left padding-right-05 font-13"></i>
+                            Back</a>
+                    </div>
+                    <li class="bold">
+                        <a href="https://www.propertyturkey.com">Home</a>
+                    </li>
+                    <li class="has-child"><a class="clr-pt" href="https://www.propertyturkey.com/real_estate/turkey" title="Buy Real Estate"><b>Buy Real Estate</b><i class="fa fa-angle-down"></i></a><div class="level-2"><ul class="no-bullets"><li class="has-child"><a href="javascript:void(0)">Locations<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/real_estate/turkey/alacati">Alacati</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/alanya">Alanya</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/ankara">Ankara</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/antalya">Antalya</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/belek">Belek</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/bodrum">Bodrum</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/bolu">Bolu</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/bursa">Bursa</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/cesme">Cesme</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/dalaman">Dalaman</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/dalyan">Dalyan</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/datca">Datca</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/didim">Didim</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/fethiye">Fethiye</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/gocek">Gocek</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/istanbul">Istanbul</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/izmir">Izmir</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/kalkan">Kalkan</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/kas">Kas</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/kemer">Kemer</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/koycegiz">Koycegiz</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/marmaris">Marmaris</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/mersin">Mersin</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/sakarya">Sakarya</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/side">Side</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/yalova">Yalova</a></li></ul></div></li><li class="has-child"><a href="javascript:void(0)">Types<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/real_estate/turkey/apartment">Apartment</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/bungalow">Bungalow</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/commercial">Commercial</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/hotel-for-sale">Hotel for sale</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/land-for-sale">Land for sale</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/penthouse">Penthouse</a></li><li><a href="https://www.propertyturkey.com/real_estate/turkey/villa">Villa</a></li></ul></div></li></ul></div></li><li><a href="https://www.propertyturkey.com/property-turkey-citizenship-by-investment-programme" title="Turkish Citizenship"><b>Turkish Citizenship</b></a></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey" title="About Turkey"><b>About Turkey</b><i class="fa fa-angle-down"></i></a><div class="level-2"><ul class="no-bullets"><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Mediterranean region">Mediterranean region<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/turkish-mediterranean-region" title="Turkish Mediterranean Region">Turkish Mediterranean Region</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-alanya" title="About Alanya">About Alanya</a></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey/about-antalya" title="About Antalya">About Antalya<i class="fa fa-angle-right"></i></a><div class="level-4"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/about-antalya/konyaalti-best-of-both-worlds" title="Konyaalti beach best of both worlds">Konyaalti beach best of both worlds</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-antalya/antalya-old-city-or-kaleici-of-antalya" title="Antalya old city or Kaleici of Antalya">Antalya old city or Kaleici of Antalya</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-antalya/the-vibrant-lara-beach-district" title="The vibrant Lara beach district">The vibrant Lara beach district</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/about-turkey/about-belek" title="About Belek">About Belek</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-dalaman" title="About Dalaman">About Dalaman</a></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey/about-kalkan" title="About Kalkan">About Kalkan<i class="fa fa-angle-right"></i></a><div class="level-4"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/about-kalkan/kalkan-for-holiday-home-and-investment" title="Kalkan for holiday home and investment">Kalkan for holiday home and investment</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/about-turkey/about-kas" title="About Kas">About Kas</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-kemer" title="About Kemer">About Kemer</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-side" title="About Side">About Side</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Aegean region">Aegean region<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/turkish-aegean-region" title="Turkish Aegean region">Turkish Aegean region</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-altinkum" title="About Altinkum">About Altinkum</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-ayvalik-and-cunda-island" title="About Ayvalik">About Ayvalik</a></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey/about-bodrum" title="About Bodrum">About Bodrum<i class="fa fa-angle-right"></i></a><div class="level-4"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/about-bodrum/bodrum-or-halicarnassus-in-the-old-days" title="Bodrum or Halicarnassus in the old days">Bodrum or Halicarnassus in the old days</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-bodrum/yalikavak" title="Yalikavak the trendy marina town">Yalikavak the trendy marina town</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-bodrum/hidden-treasures-of-gumusluk" title="Hidden treasures of Gumusluk">Hidden treasures of Gumusluk</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-bodrum/living-la-vida-loca-in-turkbuku" title="Living la Vida Loca in Turkbuku">Living la Vida Loca in Turkbuku</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/about-turkey/about-cesme" title="About Cesme">About Cesme</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-dalyan" title="About Dalyan">About Dalyan</a></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey/about-fethiye" title="About Fethiye">About Fethiye<i class="fa fa-angle-right"></i></a><div class="level-4"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/about-fethiye/ovacik" title="Ovacik">Ovacik</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-fethiye/hisaronu" title="Hisaronu">Hisaronu</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-fethiye/calis" title="Calis">Calis</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-fethiye/uzumlu" title="Uzumlu">Uzumlu</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/about-turkey/about-gocek" title="About Gocek">About Gocek</a></li><li><a href="https://www.propertyturkey.com/about-turkey/ut-izmir" title="About Izmir">About Izmir</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-kusadasi" title="About Kusadasi">About Kusadasi</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-marmaris" title="About Marmaris">About Marmaris</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Marmara region">Marmara region<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/bursa-first-capital-of-the-ottoman-empire" title="About Bursa">About Bursa</a></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey/about-istanbul" title="About Istanbul">About Istanbul<i class="fa fa-angle-right"></i></a><div class="level-4"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/about-istanbul/districts-of-istanbul" title="Districts of Istanbul">Districts of Istanbul</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-istanbul/why-invest-in-beyoglu-istanbul-real-estate" title="Why invest in Beyoglu Istanbul real estate">Why invest in Beyoglu Istanbul real estate</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-istanbul/bahcesehir-known-as-the-garden-city" title="Bahcesehir known as the garden city">Bahcesehir known as the garden city</a></li><li><a href="https://www.propertyturkey.com/about-turkey/about-istanbul/istanbul-real-estate-market-analysis-pdf" title="Istanbul Real Estate Market Analysis PDF">Istanbul Real Estate Market Analysis PDF</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/about-turkey/yalova-city-in-marmara" title="About Yalova">About Yalova</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Lycian coast">Lycian coast<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/lycian-coast" title="Lycia&#039;s incredible legacy, the Lycian Way">Lycia&#039;s incredible legacy, the Lycian Way</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Turquoise coast ">Turquoise coast <i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/turkish-turquoise-coast" title="Turkish Turquoise Coast">Turkish Turquoise Coast</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Black Sea Region">Black Sea Region<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/bolu-city-guide" title="Bolu City Guide">Bolu City Guide</a></li><li><a href="https://www.propertyturkey.com/about-turkey/trabzon-city-guide" title="Trabzon city guide">Trabzon city guide</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey" title="Airports In Turkey">Airports In Turkey<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/istanbul-airport" title="Third Airport Istanbul">Third Airport Istanbul</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/ataturk-airport-istanbul" title="Ataturk Airport Istanbul">Ataturk Airport Istanbul</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/sabiha-gokcen-istanbul" title="Sabiha Gokcen Istanbul">Sabiha Gokcen Istanbul</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/bodrum-milas-airport" title="Bodrum Milas Airport">Bodrum Milas Airport</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/antalya-airport" title="Antalya Airport">Antalya Airport</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/adnan-menderes-izmir" title="Adnan Menderes Izmir">Adnan Menderes Izmir</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/dalaman-international-airport" title="Dalaman International Airport">Dalaman International Airport</a></li><li><a href="https://www.propertyturkey.com/about-turkey/airports-in-turkey/esenboga-international-ankara" title="Esenboga International Ankara">Esenboga International Ankara</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/about-turkey/weather-in-turkey" title="Weather In Turkey">Weather In Turkey</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/buyer-guide" title="Buyer Guide"><b>Buyer Guide</b><i class="fa fa-angle-down"></i></a><div class="level-2"><ul class="no-bullets"><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Investing in Turkey">Investing in Turkey<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/buyer-guide/why-invest-in-property-in-turkey" title="Why invest in property in Turkey">Why invest in property in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/how-to-set-up-a-business-in-turkey" title="How to set up a business in Turkey">How to set up a business in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/tax-and-turkish-real-estate" title="Tax and Turkish real estate">Tax and Turkish real estate</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/eu-negotiations-and-turkish-property-prices" title="EU negotiations and Turkish property prices">EU negotiations and Turkish property prices</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/turkey-macroeconomic-and-investment-analysis" title="Download macro-economic & investment analysis">Download macro-economic & investment analysis</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Purchase process">Purchase process<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/buyer-guide/who-can-buy-property-in-turkey" title="Who Can Buy Property in Turkey">Who Can Buy Property in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/How_to_buy_property_in_Turkey" title="How to buy property in Turkey">How to buy property in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/How_to_buy_property_in_Turkey/how-to-design-and-build-your-own" title="How to design and build your own">How to design and build your own</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/inspection-trip" title="Property Turkey Inspection Trips">Property Turkey Inspection Trips</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/virtual-tour-with-property-turkey" title="Virtual Tour with Property Turkey">Virtual Tour with Property Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/costs-of-purchasing-a-property-in-turkey" title="Costs of Purchasing a Property in Turkey">Costs of Purchasing a Property in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/finance-for-property-in-turkey" title="Finance for property in Turkey">Finance for property in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/property-maintenance-in-turkey-fees-and-costs" title="Property maintenance and management">Property maintenance and management</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/how-to-get-a-turkish-title-deed-tapu" title="How to get a Turkish Title Deed">How to get a Turkish Title Deed</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/should-i-use-a-solicitor-to-buy-property-in-turkey" title="Should I use a solicitor to buy property in Turkey">Should I use a solicitor to buy property in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/power-of-attorney-in-turkey" title="Power of Attorney in Turkey">Power of Attorney in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/buying-property-in-turkey-through-a-company" title="Buying property in Turkey through a company">Buying property in Turkey through a company</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Residency permits and visas">Residency permits and visas<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/buyer-guide/residency-permits-in-turkey" title="Residency permits in Turkey">Residency permits in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/work-permits-in-turkey" title="Work permits in Turkey">Work permits in Turkey</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Your pets and cars">Your pets and cars<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/buyer-guide/bringing-your-pets-into-turkey" title="Bringing your pets into Turkey">Bringing your pets into Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/bringing-your-car-into-turkey" title="Bringing your car into Turkey">Bringing your car into Turkey</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Property taxes">Property taxes<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/buyer-guide/income-tax-on-turkish-property" title="Income Tax On Turkish Property">Income Tax On Turkish Property</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/capital-gains-tax-on-sale-of-turkish-property" title="Capital Gains Tax On Sale Of Turkish Property">Capital Gains Tax On Sale Of Turkish Property</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/vat-exemption-when-buying-turkish-real-estate" title="VAT exemption when buying Turkish real estate">VAT exemption when buying Turkish real estate</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/real-estate-inheritance-tax-in-turkey" title="Real estate inheritance tax in Turkey">Real estate inheritance tax in Turkey</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/#" title="Living in Turkey">Living in Turkey<i class="fa fa-angle-down"></i></a><div class="level-3"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/buyer-guide/retire-to-low-cost-of-living-in-turkey" title="Retire to low cost of living in Turkey">Retire to low cost of living in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/healthcare-and-medical-in-Turkey" title="Healthcare in Turkey">Healthcare in Turkey</a></li><li><a href="https://www.propertyturkey.com/buyer-guide/where-in-turkey-should-you-consider-buying-a-property" title="Where to buy property in Turkey?">Where to buy property in Turkey?</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/buyer-guide/definitive-buyer-guide-pdf" title="Download Complete Buyer Guide">Download Complete Buyer Guide</a></li></ul></div></li><li class="has-child"><a href="https://www.propertyturkey.com/about-us" title="About Us"><b>About Us</b><i class="fa fa-angle-down"></i></a><div class="level-2"><ul class="no-bullets"><li><a href="https://www.propertyturkey.com/about-us/our-services-and-fees" title="Our Services and Fees">Our Services and Fees</a></li><li><a href="https://www.propertyturkey.com/about-us/london-team" title="London">London</a></li><li><a href="https://www.propertyturkey.com/about-us/istanbul-team" title="Istanbul">Istanbul</a></li><li><a href="https://www.propertyturkey.com/about-us/bodrum-team" title="Bodrum">Bodrum</a></li><li><a href="https://www.propertyturkey.com/about-us/fethiye-team" title="Fethiye">Fethiye</a></li><li><a href="https://www.propertyturkey.com/about-us/antalya-team" title="Antalya">Antalya</a></li></ul></div></li><li><a href="https://www.propertyturkey.com/contact-us" title="Contact Us"><b>Contact Us</b></a></li>
+                    <li class="bold">
+                        <a href="https://www.propertyturkey.com/tv?sort=latest"><strong>Property Turkey TV</strong></a>
+                    </li>
+
+
+
+
+
+                    <div class="showMb-hideDt auth header-right order-1 flex">
+                                            <a class="login fl-dis-right  fl-tab-right fl-mob-right" title="Login" rel="nofollow" data-fancybox data-src="#logins" href="javascript:;">Login</a>
+                    <a class="login fl-dis-right  fl-tab-right fl-mob-right " title="Register" rel="nofollow" data-fancybox data-src="#registers" href="javascript:;">Register</a>
+                                </div>
+
+            <div class="header-phone-items order-3 showMb-hideDt ">
+                            </div>
+
+
+            <div class="currencyy currency-widget showMb-hideDt  order-2">
+
+                
+                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/3" class title="Sterling Pound  " data-cur="GBP"><i class="fa fa-gbp"></i></a>
+
+                
+                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/2" class title="Euro " data-cur="EUR"><i class="fa fa-eur"></i></a>
+
+                
+                <a rel="nofollow" href="javascript:void(0)" class="active" title="Dollar " data-cur="USD"><i class="fa fa-usd"></i></a>
+
+                
+                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/4" class title="Turkish Lira " data-cur="TRY"><i class="fa fa-try"></i></a>
+
+                                </div></nav>
+                <div class="auth header-right order-1 login-register-desktop-xl d-desk">
+                                        <a class="login fl-dis-right  fl-tab-right fl-mob-right" title="Login" rel="nofollow" data-fancybox data-src="#logins" href="javascript:;">Login</a>
+                    <a class="login fl-dis-right  fl-tab-right fl-mob-right " title="Register" rel="nofollow" data-fancybox data-src="#registers" href="javascript:;">Register</a>
+                                    </div>
+                <!-- <a class="btn --gray --shadow">Sign in</a>
+                <a class="btn --red">Join Now</a> -->
+            </div>
+        </div>
+    </div>
+    <div class="elastic-search-form searchWrapper">
+
+        <form action="https://www.propertyturkey.com/real_estate/search">
+            <input type="text" name="keyword" autocomplete="off" value class="form-control" placeholder="Example: Apartment Istanbul Sea view">
+            <button type="submit" class="d-desk"><img src="../fonts/search-white.svg">
+                Search</button>
+            <button type="submit" class="d-mobile"><img src="../fonts/search-white.svg"></button>
+            <span class="close"><img src="../fonts/baseline-close-6.svg"> </span>
+            <div class="search-results-wrapper">
+                <div class="loadingSpan hide"><img src="AjaxLoader.gif"> </div>
+                <div class="search-results-list"></div>
+            </div>
+        </form>
+    </div>
+</header>
+
+
+<div style="display: none;" id="registers">
+    <div class="container text-center">
+        <div class="register-form">
+            <div> <img src="logo.png" width="80" class="img-fluid" alt="Property Turkey"> </div>
+                    <h3 class="margin-bottom-3 margin-top-1">Sign up to Save Properties</h3>
+                    <form method="POST" action="https://www.propertyturkey.com/register" accept-charset="UTF-8" class="padding-top-15 register-form"><input name="_token" type="hidden" value="YRTiHnYCcj2mwXbK10JMuaFax4pZ5VpFSG9sx3Mf">
+        <div class="form-field">
+            <label>Name</label>
+            <input placeholder="Name" validation name="firstName" type="text">
+        </div>
+        <div class="form-field">
+            <label>E-mail*</label>
+            <input placeholder="E-mail" validation="email" name="email" type="email">
+        </div>
+        <div class="form-field">
+            <label>Mobile*</label>
+            <input placeholder="Mobile" class="input-tel" name="mobile" type="text">
+        </div>
+        <div class="form-field">
+            <label>Password*</label>
+            <input placeholder="Password" validation name="password" type="password" value>
+
+        </div>
+
+        <div class="form-field">
+            <label>Confirm Password*</label>
+                <input placeholder="Confirm Password" validation name="confirm_password" type="password" value>
+        </div>
+        <input type="hidden" name="RegisterUser" value>
+
+                <input class="btn btn-block bg-pt crl-white margin-ver-1" type="submit" value="Register">
+        </form>
+        <p>By creating an account you agree on <strong>Property Turkey</strong><br> <span class="clr-pt"> <a href="/terms-of-use">Terms of use</a> </span>and <span class="clr-pt"><a href="/privacy-policy">Privacy Policy</a></span></p>
+
+    </div>
+</div>
+</div>
+
+
+<div style="display: none;" id="logins">
+    <div class="container text-center">
+        <div class="register-form">
+            <div> <img src="logo.png" width="80" class="img-fluid" alt="Property Turkey"> </div>
+                    <h3 class="margin-bottom-3 margin-top-1">Sign in to Save Properties</h3>
+
+        <a href="https://www.propertyturkey.com/Oauth/gplus" class="ion-social-google w-75 margin-ver-1"><span><img src="google-icon.png" width="17" class="img-fluid ver-img-middle" alt="googleicon"> Continue with Google</span></a>
+        <a href="https://www.propertyturkey.com/Oauth/fb" class="ion-social-facebook w-75"><span><i class="fa fa-facebook" aria-hidden="true"></i> Continue with Facebook</span></a>
+
+        <p class="pos-relarive"><span class="or-btn">OR</span></p>
+            <form method="POST" action="https://www.propertyturkey.com/login" accept-charset="UTF-8" class="body"><input name="_token" type="hidden" value="YRTiHnYCcj2mwXbK10JMuaFax4pZ5VpFSG9sx3Mf">
+        <div class="form-field">
+            <label>E-mail*</label>
+            <input placeholder="E-mail" name="email" type="email">
+
+        </div>
+        <div class="form-field">
+            <label>Password*</label>
+            <input placeholder="Password" name="password" type="password" value>
+        </div>
+        <div class="form-field">
+            <input name="remember" type="checkbox" value="1"> Remember Me
+        </div>
+        <input type="hidden" name="LoginUser" value style="display: none">
+        <input class="btn btn-block bg-pt crl-white margin-ver-1" type="submit" value="Login">
+        <input name="prev" type="hidden" value="https://www.propertyturkey.com/front/build/bundleCSS.css?v=1.2.224100699">
+        </form>
+            <div class="text-left padding-bottom-05"><a href="https://www.propertyturkey.com/forget-password">Forget Password</a>
+        </div>
+        <p class="text-left"> Do not have an account? <a class="clr-pt" href="https://www.propertyturkey.com/register"> Signup</a>
+            </p>
+    </div>
+</div>
+</div>
+<div id="search-filter" class="showRefId">
+    <input type="hidden" id="currentCurrency" value="$">
+    <div id="search" class="sec-search ">
+        <div class="search-functioned wrap-dis-85 wrap wrap-tab-11 wrap-mob-11">
+            <p class="search-logo abhaya d-desk">
+
+                <strong>Find</strong> Your Ideal <br><small class="font-2">Home & Investment</small>
+            </p>
+            <p class="search-logo abhaya d-mobile">
+                <b>Find</b> <small>Your Ideal Home<br></small> <small>& Investment</small>
+
+            </p>
+
+            <a href="#" class="toggle-search-filters fa fa-arrow-right"></a>
+            <div class="search-input-wrap flex wrappping-hidden  ">
+                <div class="search-filter-input search-filter-input-city originValue" linktype="location">
+                    <img class="search-icon" src="../fonts/location-gold-filled.svg">
+
+                    <div class="filter-type-dropdown-wrap">
+                        <div class="filter-type-dropdown">
+                            <h4>City </h4>
+                            <ul>
+                                
+                                
+                                                                                                
+                                                                                                <label class="checkbox-container bold"> Istanbul
+                                    <input value="istanbul" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container bold"> Fethiye
+                                    <input value="fethiye" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container bold"> Bodrum
+                                    <input value="bodrum" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container bold"> Antalya
+                                    <input value="antalya" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container bold"> Kalkan
+                                    <input value="kalkan" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Alanya
+                                    <input value="alanya" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container bold"> Bursa
+                                    <input value="bursa" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Kas
+                                    <input value="kas" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Izmir
+                                    <input value="izmir" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Dalyan
+                                    <input value="dalyan" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Gocek
+                                    <input value="gocek" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Kemer
+                                    <input value="kemer" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Belek
+                                    <input value="belek" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Side
+                                    <input value="side" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Yalova
+                                    <input value="yalova" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Ankara
+                                    <input value="ankara" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Dalaman
+                                    <input value="dalaman" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Cesme
+                                    <input value="cesme" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Marmaris
+                                    <input value="marmaris" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Alacati
+                                    <input value="alacati" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Sakarya
+                                    <input value="sakarya" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Didim
+                                    <input value="didim" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Bolu
+                                    <input value="bolu" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Koycegiz
+                                    <input value="koycegiz" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Mersin
+                                    <input value="mersin" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                
+                                                                                                <label class="checkbox-container "> Datca
+                                    <input value="datca" type="radio" name="city" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                            </ul>
+
+                        </div>
+                    </div>
+
+
+                                        <span class="search-filter-input-title text-mdd-center">City <i class="search-filter-input-value"></i></span>
+
+                    <i class="fa fa-angle-down search-filter-input-icon pp-0"></i>
+                    
+                    <div class="search-filter-input-dropdown label">
+                        
+                                                                                                                        <label value="istanbul" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Istanbul</label>
+                                                                                                <label value="fethiye" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Fethiye</label>
+                                                                                                <label value="bodrum" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Bodrum</label>
+                                                                                                <label value="antalya" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Antalya</label>
+                                                                                                <label value="kalkan" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Kalkan</label>
+                                                                                                <label value="alanya" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Alanya</label>
+                                                                                                <label value="bursa" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Bursa</label>
+                                                                                                <label value="kas" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Kas</label>
+                                                                                                <label value="izmir" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Izmir</label>
+                                                                                                <label value="dalyan" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Dalyan</label>
+                                                                                                <label value="gocek" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Gocek</label>
+                                                                                                <label value="kemer" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Kemer</label>
+                                                                                                <label value="belek" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Belek</label>
+                                                                                                <label value="side" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Side</label>
+                                                                                                <label value="yalova" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Yalova</label>
+                                                                                                <label value="ankara" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Ankara</label>
+                                                                                                <label value="dalaman" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Dalaman</label>
+                                                                                                <label value="cesme" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Cesme</label>
+                                                                                                <label value="marmaris" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Marmaris</label>
+                                                                                                <label value="alacati" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Alacati</label>
+                                                                                                <label value="sakarya" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Sakarya</label>
+                                                                                                <label value="didim" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Didim</label>
+                                                                                                <label value="bolu" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Bolu</label>
+                                                                                                <label value="koycegiz" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Koycegiz</label>
+                                                                                                <label value="mersin" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Mersin</label>
+                                                                                                <label value="datca" type="city_slug" class="search-filter-input-dropdown-link searchDO city-mob-search"> Datca</label>
+                                                                                            </div>
+
+
+                </div>
+                <!------------------------------------------------A R E A----------------------------------------------------------->
+
+                
+                <!------------------------------------------------T Y P E S----------------------------------------------------------->
+
+                <div class="search-filter-input originValue" linktype="type">
+
+
+                    <div class="filter-type-dropdown-wrap">
+
+                        <div class="filter-type-dropdown">
+                            <h4>Type</h4>
+                            <ul>
+                                                                                                                                                                                                <label class="checkbox-container"> Apartment
+                                    <input value="apartment" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                                <label class="checkbox-container"> Bungalow
+                                    <input value="bungalow" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                                <label class="checkbox-container"> Commercial
+                                    <input value="commercial" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                                <label class="checkbox-container"> Hotel for sale
+                                    <input value="hotel-for-sale" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                                <label class="checkbox-container"> Land for sale
+                                    <input value="land-for-sale" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                                <label class="checkbox-container"> Penthouse
+                                    <input value="penthouse" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                                <label class="checkbox-container"> Villa
+                                    <input value="villa" type="radio" name="type" class="checkbox-filter">
+                                    <span class="checkmark"></span>
+                                </label>
+                                                                                                                            </ul>
+
+                        </div>
+                    </div>
+
+
+                    <img class="search-icon showMb-hideDt" src="../fonts/property-type.svg">
+
+                                        <span class="search-filter-input-title text-mdd-center">Type <i class="search-filter-input-value"></i></span>
+                    <i class="fa fa-angle-down search-filter-input-icon"></i>
+                                        <div class="search-filter-input-dropdown  label">
+
+                                                                                                                                                                                <label value="apartment" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Apartment</label>
+                                                                                                                            <label value="bungalow" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Bungalow</label>
+                                                                                                                            <label value="commercial" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Commercial</label>
+                                                                                                                            <label value="hotel-for-sale" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Hotel for sale</label>
+                                                                                                                            <label value="land-for-sale" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Land for sale</label>
+                                                                                                                            <label value="penthouse" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Penthouse</label>
+                                                                                                                            <label value="villa" type="type_slug" class="search-filter-input-dropdown-link searchDO">
+                                    Villa</label>
+                                                                                                        </div>
+
+                </div>
+                                <!------------------------------------------------------------------------------------------------------------------------------->
+                <div class="search-filter-input d-desk price-toggle OriginValue" id="price-toggle">
+
+                    <span class="search-filter-input-title">
+
+                        Price
+                        <div class="priceValues"><i class="search-filter-input-value minPriceValue"></i> - <i class="search-filter-input-value maxPriceValue"></i></div></span>
+                                        <i class="fa fa-angle-down search-filter-input-icon"></i>
+                                        <div class="filter-type-dropdown-wrap price">
+                        <div class="filter-type-dropdown">
+                            <h4> Price range</h4>
+                            <div class="flex ">
+                                <div class="minPrice">
+                                    <input class="minPrice-input filter-input-text width-unset" readonly type="text" placeholder="Min Price" value>
+                                    <ul>
+
+
+                                                                                                                                                                                                        <label class="checkbox-container"> 0
+                                            <input value="0.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $50k
+                                            <input value="50000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $100k
+                                            <input value="100000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $150k
+                                            <input value="150000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $200k
+                                            <input value="200000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $250k
+                                            <input value="250000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $300k
+                                            <input value="300000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $400k
+                                            <input value="400000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $500k
+                                            <input value="500000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $750k
+                                            <input value="750000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $1,000k
+                                            <input value="1000000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $1,500k
+                                            <input value="1500000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $2,000k
+                                            <input value="2000000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $2,500k
+                                            <input value="2500000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $5,000k
+                                            <input value="5000000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container"> $10,000k
+                                            <input value="10000000.00" type="radio" name="minPrice" class="checkbox-filter-minPrice hide">
+
+                                        </label>
+                                                                                                                    </ul>
+                                </div>
+                                <small> - </small>
+                                <div class="maxPrice">
+                                    <input class="maxPrice-input filter-input-text width-unset" readonly type="text" placeholder="Max Price" value>
+
+                                    <ul>
+                                                                                                                                                                                                        <label class="checkbox-container">$50k
+                                            <input value="50000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$100k
+                                            <input value="100000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$150k
+                                            <input value="150000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$200k
+                                            <input value="200000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$250k
+                                            <input value="250000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$300k
+                                            <input value="300000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$400k
+                                            <input value="400000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$500k
+                                            <input value="500000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$750k
+                                            <input value="750000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$1,000k
+                                            <input value="1000000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$1,500k
+                                            <input value="1500000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$2,000k
+                                            <input value="2000000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$2,500k
+                                            <input value="2500000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$5,000k
+                                            <input value="5000000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$10,000k
+                                            <input value="10000000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                                                                <label class="checkbox-container">$10,000k+
+                                            <input value="10000000.00" type="radio" name="maxPrice" class="checkbox-filter-maxPrice hide">
+
+                                        </label>
+                                                                                                                    </ul>
+                                </div>
+                            </div>
+
+                        </div>
+                    </div>
+                </div>
+                <div class="search-filter-input hide  minPrice" linktype="min_price">
+                    <img class="search-icon showMb-hideDt" src="../fonts/low-price.svg">
+
+                    <span class="search-filter-input-title text-mdd-center" value type="minPrice">Min Price <i class="search-filter-input-value"></i></span>
+                                        <i class="fa fa-angle-down search-filter-input-icon"></i>
+                                        <div class="search-filter-input-dropdown ">
+                                                                                                                        <label value="0.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> 0</label>
+                                                                                                <label value="50000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $50k</label>
+                                                                                                <label value="100000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $100k</label>
+                                                                                                <label value="150000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $150k</label>
+                                                                                                <label value="200000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $200k</label>
+                                                                                                <label value="250000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $250k</label>
+                                                                                                <label value="300000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $300k</label>
+                                                                                                <label value="400000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $400k</label>
+                                                                                                <label value="500000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $500k</label>
+                                                                                                <label value="750000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $750k</label>
+                                                                                                <label value="1000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $1,000k</label>
+                                                                                                <label value="1500000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $1,500k</label>
+                                                                                                <label value="2000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $2,000k</label>
+                                                                                                <label value="2500000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $2,500k</label>
+                                                                                                <label value="5000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $5,000k</label>
+                                                                                                <label value="10000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO minPricehidden"> $10,000k</label>
+                                                                    </div>
+                </div>
+                <div class="search-filter-input hide   maxPrice" linktype="max_price">
+                    <img class="search-icon showMb-hideDt" src="../fonts/low-price.svg" style="transform: rotate(180deg);">
+
+                    <span class="search-filter-input-title text-mdd-center" value type="maxPrice">Max Price <i class="search-filter-input-value"></i></span>
+                                        <i class="fa fa-angle-down search-filter-input-icon"></i>
+                                        <div class="search-filter-input-dropdown">
+                                                                                                                        <label value="50000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $50k</label>
+                                                                                                <label value="100000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $100k</label>
+                                                                                                <label value="150000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $150k</label>
+                                                                                                <label value="200000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $200k</label>
+                                                                                                <label value="250000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $250k</label>
+                                                                                                <label value="300000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $300k</label>
+                                                                                                <label value="400000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $400k</label>
+                                                                                                <label value="500000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $500k</label>
+                                                                                                <label value="750000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $750k</label>
+                                                                                                <label value="1000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $1,000k</label>
+                                                                                                <label value="1500000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $1,500k</label>
+                                                                                                <label value="2000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $2,000k</label>
+                                                                                                <label value="2500000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $2,500k</label>
+                                                                                                <label value="5000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $5,000k</label>
+                                                                                                <label value="10000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $10,000k</label>
+                                                                                                <label value="10000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO maxPricehidden">
+                            $10,000k+</label>
+                                                                    </div>
+                </div>
+                <!-------------------------------------------B E D R O O M S--------------------------------------------->
+                <div class="search-filter-input  bedrooms hideMobile" linktype="bedrooms" id="bedroom-toggle">
+                    <img class="search-icon showMb-hideDt" src="../fonts/bed.svg">
+
+                    
+                    <span class="search-filter-input-title text-mdd-center"> Bedrooms
+                        <i class="search-filter-input-value"></i></span>
+                    <i class="fa fa-angle-down search-filter-input-icon"></i>
+                    <div class="filter-type-dropdown-wrap">
+                        <div class="filter-type-dropdown">
+                            <h4> Bedrooms </h4>
+                            <ul>
+
+                                
+                                    
+                                    <label class="checkbox-container" value="0"> 0
+                                        <input value="0" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="checkbox-container" value="1"> 1
+                                        <input value="1" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="checkbox-container" value="2"> 2
+                                        <input value="2" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="checkbox-container" value="3"> 3
+                                        <input value="3" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="checkbox-container" value="4"> 4
+                                        <input value="4" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="checkbox-container" value="5"> 5
+                                        <input value="5" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                    
+                                    <label class="checkbox-container" value="6"> 5+ 
+                                        <input value="6" type="radio" name="city" class="checkbox-filter">
+                                        <span class="checkmark"></span>
+                                    </label>
+                                                                        
+
+                            </ul>
+
+                        </div>
+                    </div>
+                    <div class="search-filter-input-dropdown label">
+                                                                                <label value="0" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 0</label>
+                                                        <label value="1" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 1</label>
+                                                        <label value="2" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 2</label>
+                                                        <label value="3" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 3</label>
+                                                        <label value="4" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 4</label>
+                                                        <label value="5" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 5</label>
+                                                        <label value="6" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 5+ </label>
+                                                                            </div>
+                                    </div>
+                <!------------------------------------------------------T A G S-------------------------------------------------------->
+                
+                <div class="search-filter-input norrow hideMobile refId flex items-center">
+                    <input type="text" name="ref" placeholder="Reference ID" value>
+                </div>
+
+                <a class="searchMore more-style">More</a>
+                <button id="createSearchData" type="button" class="primary search-filter-input seabtn hide"><i class="fa fa-search searchicon-box" aria-hidden="true" onclick="if (!window.__cfRLUnblockHandlers) return false; ga('create', 'UA-42286063-1', 'auto'); ga('send', 'event', 'Search', 'CLICK', 'SUBMIT Search');" data-cf-modified-556fd454bd9c2c09a017ba2d-></i>
+                    Search
+                </button>
+
+            </div>
+            <div class="search-filter-buttons flex ">
+                <button id="createSearchData" style="line-height: 1rem !important;" type="button" class="primary btn crl-white">
+                    SEARCH
+                </button>
+                                <div id="searchh-iconss" class="d-mobile">
+                    <img src="add-icon.png" alt class="plusicon">
+                    <img src="../fonts/horizontal-line.svg" class="minusicon hide" width="25" height="25" alt>
+                </div>
+            </div>
+        </div>
+        <input type="hidden" name="priceRange" id="priceRange">
+        <div class="default-search">
+    <h2 class="search-filter-title">
+        <strong>Find</strong> Your Ideal Home
+        <small> & Investment</small>
+    </h2>
+    <a href="#" class="toggle-search-filters fa fa-arrow-right"></a>
+    <div class="search-filter-input">
+        <span class="search-filter-input-title">City <i class="search-filter-input-value"></i></span>
+        <i class="fa fa-angle-down search-filter-input-icon"></i>
+        <div class="search-filter-input-dropdown">
+                                                                            <label value="istanbul" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Istanbul</label>
+                                                                <label value="fethiye" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Fethiye</label>
+                                                                <label value="bodrum" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Bodrum</label>
+                                                                <label value="antalya" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Antalya</label>
+                                                                <label value="kalkan" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Kalkan</label>
+                                                                <label value="alanya" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Alanya</label>
+                                                                <label value="bursa" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Bursa</label>
+                                                                <label value="kas" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Kas</label>
+                                                                <label value="izmir" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Izmir</label>
+                                                                <label value="dalyan" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Dalyan</label>
+                                                                <label value="gocek" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Gocek</label>
+                                                                <label value="kemer" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Kemer</label>
+                                                                <label value="belek" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Belek</label>
+                                                                <label value="side" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Side</label>
+                                                                <label value="yalova" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Yalova</label>
+                                                                <label value="ankara" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Ankara</label>
+                                                                <label value="dalaman" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Dalaman</label>
+                                                                <label value="cesme" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Cesme</label>
+                                                                <label value="marmaris" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Marmaris</label>
+                                                                <label value="alacati" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Alacati</label>
+                                                                <label value="sakarya" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Sakarya</label>
+                                                                <label value="didim" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Didim</label>
+                                                                <label value="bolu" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Bolu</label>
+                                                                <label value="koycegiz" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Koycegiz</label>
+                                                                <label value="mersin" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Mersin</label>
+                                                                <label value="datca" type="city_slug" class="search-filter-input-dropdown-link searchDO"> Datca</label>
+                                    </div>
+    </div>
+    <div class="search-filter-input">
+        <span class="search-filter-input-title">Type <i class="search-filter-input-value"></i></span>
+        <i class="fa fa-angle-down search-filter-input-icon"></i>
+        <div class="search-filter-input-dropdown">
+             
+                             
+                                    <label value="apartment" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Apartment</label>
+                             
+                                    <label value="bungalow" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Bungalow</label>
+                             
+                                    <label value="commercial" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Commercial</label>
+                             
+                                    <label value="hotel-for-sale" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Hotel for sale</label>
+                             
+                                    <label value="land-for-sale" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Land for sale</label>
+                             
+                                    <label value="penthouse" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Penthouse</label>
+                             
+                                    <label value="villa" type="type_slug" class="search-filter-input-dropdown-link searchDO"> Villa</label>
+                                    </div>
+    </div>
+    <div class="search-filter-input minPrice">
+        <span class="search-filter-input-title" value type="minPrice">Min Price <i class="search-filter-input-value"></i></span>
+        <i class="fa fa-angle-down search-filter-input-icon"></i>
+        <div class="search-filter-input-dropdown">
+             
+                             
+                                    <label value="0.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> 0</label>
+                             
+                                    <label value="50000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $50k</label>
+                             
+                                    <label value="100000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $100k</label>
+                             
+                                    <label value="150000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $150k</label>
+                             
+                                    <label value="200000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $200k</label>
+                             
+                                    <label value="250000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $250k</label>
+                             
+                                    <label value="300000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $300k</label>
+                             
+                                    <label value="400000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $400k</label>
+                             
+                                    <label value="500000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $500k</label>
+                             
+                                    <label value="750000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $750k</label>
+                             
+                                    <label value="1000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $1,000k</label>
+                             
+                                    <label value="1500000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $1,500k</label>
+                             
+                                    <label value="2000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $2,000k</label>
+                             
+                                    <label value="2500000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $2,500k</label>
+                             
+                                    <label value="5000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $5,000k</label>
+                             
+                                    <label value="10000000.00" type="minPrice" class="search-filter-input-dropdown-link searchDO"> $10,000k</label>
+                                    </div>
+    </div>
+    <div class="search-filter-input maxPrice">
+        <span class="search-filter-input-title" value type="maxPrice">Max Price <i class="search-filter-input-value"></i></span>
+        <i class="fa fa-angle-down search-filter-input-icon"></i>
+        <div class="search-filter-input-dropdown">
+             
+                             
+                                    <label value="50000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $50k</label>
+                             
+                                    <label value="100000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $100k</label>
+                             
+                                    <label value="150000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $150k</label>
+                             
+                                    <label value="200000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $200k</label>
+                             
+                                    <label value="250000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $250k</label>
+                             
+                                    <label value="300000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $300k</label>
+                             
+                                    <label value="400000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $400k</label>
+                             
+                                    <label value="500000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $500k</label>
+                             
+                                    <label value="750000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $750k</label>
+                             
+                                    <label value="1000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $1,000k</label>
+                             
+                                    <label value="1500000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $1,500k</label>
+                             
+                                    <label value="2000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $2,000k</label>
+                             
+                                    <label value="2500000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $2,500k</label>
+                             
+                                    <label value="5000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $5,000k</label>
+                             
+                                    <label value="10000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $10,000k</label>
+                             
+                                    <label value="10000000.00" type="maxPrice" class="search-filter-input-dropdown-link searchDO"> $10,000k+</label>
+                                    </div>
+    </div>
+    <div class="search-filter-input norrow bedrooms">
+        <span class="search-filter-input-title"> Bedrooms <i class="search-filter-input-value"></i></span>
+        <i class="fa fa-angle-down search-filter-input-icon"></i>
+        <div class="search-filter-input-dropdown">
+             
+                <label value="0" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 0</label>
+             
+                <label value="1" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 1</label>
+             
+                <label value="2" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 2</label>
+             
+                <label value="3" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 3</label>
+             
+                <label value="4" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 4</label>
+             
+                <label value="5" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 5</label>
+             
+                <label value="6" type="bedrooms" class="search-filter-input-dropdown-link searchDO"> 5+ </label>
+                    </div>
+    </div>
+            <div class="search-filter-input norrow">
+            <input type="text" name="ref" placeholder="Reference ID">
+        </div>
+        <div class="search-filter-buttons">
+        <button id="createSearchData" type="button" class="primary btn">Search</button>
+        <span class="or-seperator">OR</span>
+        <a type="button" class="secondary btn" id="inline" href="#propertyAlerts" title="Get Property <b>ALERTS</b>">Get Property <b>ALERTS</b></a>
+    </div>
+</div>    </div>
+</div>
+
+
+<script type="556fd454bd9c2c09a017ba2d-text/javascript">
+    if('{"select":"Locations","istanbul":"Istanbul","fethiye":"Fethiye","bodrum":"Bodrum","antalya":"Antalya","kalkan":"Kalkan","alanya":"Alanya","bursa":"Bursa","kas":"Kas","izmir":"Izmir","dalyan":"Dalyan","gocek":"Gocek","kemer":"Kemer","belek":"Belek","side":"Side","yalova":"Yalova","ankara":"Ankara","dalaman":"Dalaman","cesme":"Cesme","marmaris":"Marmaris","alacati":"Alacati","sakarya":"Sakarya","didim":"Didim","bolu":"Bolu","koycegiz":"Koycegiz","mersin":"Mersin","datca":"Datca"}' !== null) {
+        cityFilter = '{"select":"Locations","istanbul":"Istanbul","fethiye":"Fethiye","bodrum":"Bodrum","antalya":"Antalya","kalkan":"Kalkan","alanya":"Alanya","bursa":"Bursa","kas":"Kas","izmir":"Izmir","dalyan":"Dalyan","gocek":"Gocek","kemer":"Kemer","belek":"Belek","side":"Side","yalova":"Yalova","ankara":"Ankara","dalaman":"Dalaman","cesme":"Cesme","marmaris":"Marmaris","alacati":"Alacati","sakarya":"Sakarya","didim":"Didim","bolu":"Bolu","koycegiz":"Koycegiz","mersin":"Mersin","datca":"Datca"}';
+    }
+    else {
+        cityFilter = '';
+    }
+</script>
+
+
+
+<div class="init">
+    <div id="fb-root"></div>
+
+</div>
+    <section id="main" class="cf  disable-copy ">
+        	<section id="page_404" class="align-center page_404-bg padding-ver-5">
+			<div class="content">
+				<img src="404-bg.png" alt>
+				<h3 class="page-title aling-center">Are you lost ?</h3>
+				<h1 class="title aling-center margin-top-1 noraml margin-bottom-3 line-h-15">404 Error, Sorry the Page you have Requested was not found.</h1>
+				<a href="https://www.propertyturkey.com" class="btn font-15">Go Homepage</a>
+			</div>
+	</section>
+    </section>
+
+<style>
+    #btn-share{
+        margin-top: 11px !important;
+    }
+</style>
+
+
+<footer>
+    <div class="foooter">
+        <div class="wrap-dis-85 wrap wrap-tab-11 wrap-mob-11">
+
+
+            <div class="row padding-top-1">
+
+
+                <div class="col-4 col-md-2">
+
+                    <ul class="list-unstyled">
+                        <li class="li-header">Popular Searches</li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/turkey" title="Turkey houses">Turkey houses</a>
+                        </li>
+
+                         <li><a href="https://www.propertyturkey.com/real_estate/turkey/bodrum" title="Bodrum property for sale">Bodrum property for sale</a></li>
+
+                        <li><a href="https://www.propertyturkey.com/real_estate/turkey/istanbul/apartment" title="Apartment for sale in Istanbul">Apartment for sale in Istanbul</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/turkey/istanbul/villa" title="Istanbul Villas">Istanbul Villas</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/turkey/bodrum/villa" title="Bodrum Villa">Bodrum Villa</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/turkey/antalya/apartment" title="Apartment for sale in Antalya">Apartment for sale in Antalya</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/turkey/antalya" title="Antalya homes">Antalya homes</a></li>
+
+
+
+
+                    </ul>
+                    <a class="margin-top-05 clr-brightpt-grey expand">More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+
+
+
+                </div>
+
+
+
+                <div class="col-4 col-md-2">
+                                        <ul class="list-unstyled">
+                        <li class="li-header">Popular Locations</li>
+
+                                                                        <li><a href="https://www.propertyturkey.com/real_estate/turkey/istanbul" title="Istanbul">Istanbul</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/bodrum" title="Bodrum">Bodrum</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/fethiye" title="Fethiye">Fethiye</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/antalya" title="Antalya">Antalya</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/kalkan" title="Kalkan">Kalkan</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/alanya" title="Alanya">Alanya</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/kas" title="Kas">Kas</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/bursa" title="Bursa">Bursa</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/gocek" title="Gocek">Gocek</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/side" title="Side">Side</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/kemer" title="Kemer">Kemer</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/dalyan" title="Dalyan">Dalyan</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/izmir" title="Izmir">Izmir</a></li>
+                                                <li><a href="https://www.propertyturkey.com/real_estate/turkey/belek" title="Belek">Belek</a></li>
+                        
+
+
+                    </ul>
+                    <a class="margin-top-05 clr-brightpt-grey expand">More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+
+                    
+                </div>
+                <div class="col-4 col-md-2">
+                                        <ul class="list-unstyled">
+                        <li class="li-header">Buyer Guide</li>
+                        
+
+                        <li><a href="https://www.propertyturkey.com/buyer-guide" title="Investing in turkey">Investing in turkey</a></li>
+
+                        
+
+                        <li><a href="https://www.propertyturkey.com/buyer-guide/costs-of-purchasing-a-property-in-turkey" title="Purchase process">Purchase process</a></li>
+
+                        
+
+                        <li><a href="https://www.propertyturkey.com/buyer-guide/residency-permits-in-turkey" title="Residency permits &amp; visa">Residency permits &amp; visa</a></li>
+
+                        
+
+                        <li><a href="https://www.propertyturkey.com/property-turkeys-concierge-service" title="Concierge Service">Concierge Service</a></li>
+
+                                            </ul>
+
+                    
+
+                    
+                </div>
+
+                <div class="col-4 col-md-2">
+
+                    <ul class="list-unstyled">
+                        <li class="li-header">About us</li>
+                        <li><a href="https://www.propertyturkey.com/about-us" title="About us">About us</a></li>
+                        <li><a href="https://www.propertyturkey.com/about-us/london-team" title="London">London</a></li>
+                        <li><a href="https://www.propertyturkey.com/about-us/istanbul-team" title="Istanbul">Istanbul</a></li>
+                        <li><a href="https://www.propertyturkey.com/about-us/bodrum-team" title="Bodrum">Bodrum</a></li>
+                        <li><a href="https://www.propertyturkey.com/about-us/our-services-and-fees" title="Services and Fees">Services and Fees</a></li>
+                    </ul>
+
+                    <a class="margin-top-05 clr-brightpt-grey expand d-mobile">More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+
+                </div>
+                <div class="col-4 col-md-3">
+                    <ul class="list-unstyled">
+                        <li class="li-header">Useful Links</li>
+                        <li><a href="https://www.propertyturkey.com/property-turkey-citizenship-by-investment-programme" title="Turkish Citizenship By investment">Turkish Citizenship By investment</a></li>
+                        <li><a href="https://www.propertyturkey.com/related-blogs/keyword?keyword=investment" title="Real Estate Investment Blogs">Real Estate Investment Blogs</a></li>
+                        <li><a href="https://www.propertyturkey.com/related-blogs/keyword?keyword=istanbul%20investment" title="Istanbul Investment Tips">Istanbul Investment Tips</a></li>
+                        <li><a href="https://www.propertyturkey.com/tv" title="PropertyTurkey TV">PropertyTurkey TV</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/investment/turkey/istanbul" title="Istanbul Investments Properties">Istanbul Investments Properties</a></li>
+                        <li><a href="https://www.propertyturkey.com/contact-us/sell-your-home-with-property-turkey" title="Istanbul Investments Properties">Sell Your Property</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/bargain/turkey" title="Bargain Properties">Bargain Properties</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/beachfront/turkey" title="Beachfront Properties">Beachfront Properties</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/luxury/turkey" title="luxury Properties">luxury Properties</a></li>
+                        <li><a href="https://www.propertyturkey.com/real_estate/investment/turkey" title="Investment Properties">Investment Properties</a></li>
+                        <li><a href="https://www.propertyturkey.com/landing/design-build" title="Design & build">Design & build</a></li>
+
+
+
+
+
+
+                    </ul>
+
+                    <a class="margin-top-05 clr-brightpt-grey expand">More <i class="fa fa-chevron-down" aria-hidden="true"></i></a>
+
+                </div>
+            </div>
+
+            <div class="socialmedia-links text-center padding-top-1 padding-bottom-md-3">
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                        <a href="https://www.propertyturkey.com/become-partner" style="display: block;">
+                            <img src="../fonts/partner-button-01.svg" width="95" class="img-fluid" alt>
+                        </a>
+                    </li>
+                    <li class="list-inline-item">
+                        <a class="buyerguide-virtualtour-icon-mobile" href="https://www.propertyturkey.com/buyer-guide/virtual-tour-with-property-turkey"><img src="../fonts/Virtualtouring.svg" width="95" class="img-fluid" alt></a>
+                    </li>
+                </ul>
+                <ul class="list-inline">
+                    <li class="list-inline-item">
+                        <a href="https://www.propertyturkey.com/blog-turkey/why-were-joining-the-bitcoin-revolution">
+                            <img src="../fonts/PT-coins.svg" width="200" class="img-fluid" alt>
+                        </a>
+                    </li>
+                </ul>
+                <ul class="list-inline">
+                                        <li class="list-inline-item bg-social-links">
+                        <a href="https://www.facebook.com/Propertyturkeycom" target="_blank">
+                            <i class="fa fa-facebook " aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                                        <li class="list-inline-item bg-social-links">
+                        <a href="https://twitter.com/turkeypropertys" target="_blank">
+                            <i class="fa fa-twitter " aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                                                                                                                                                                                                            
+                                        <li class="list-inline-item bg-social-links">
+                        <a href="https://www.instagram.com/propertyturkeycom/" target="_blank">
+                            <i class="fa fa-instagram " aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                                        <li class="list-inline-item bg-social-links">
+                        <a href="https://pinterest.com/PropertyTurkey/" target="_blank">
+                            <i class="fa fa-pinterest-p " aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                                        <li class="list-inline-item bg-social-links">
+                        <a href="https://www.youtube.com/user/PropertyTurkeyCom" target="_blank">
+                            <i class="fa fa-youtube-play " aria-hidden="true"></i>
+                        </a>
+                    </li>
+                    
+                </ul>
+
+                <div class="col-12 flex content-center font-14 margin-bottom-1 flex-dir-row-reverse-ar" style="z-index: 99">
+                    <div class="header-phone-items padding-right-2">
+                                            </div>
+
+                    <div class="currencyy flex-align-self-center">
+
+                                                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/3" class title="Sterling Pound  "><i class="fa fa-gbp"></i></a>
+
+                                                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/2" class title="Euro "><i class="fa fa-eur"></i></a>
+
+                                                <a rel="nofollow" href="javascript:void(0)" class="active" title="Dollar "><i class="fa fa-usd"></i></a>
+
+                                                <a rel="nofollow" href="https://www.propertyturkey.com/change-currency/4" class title="Turkish Lira "><i class="fa fa-try"></i></a>
+
+                        
+                    </div>
+                </div>
+                <!-- TrustBox widget -->
+                <div class="trustpilot-widget" data-locale="en-US" data-template-id="5419b6a8b0d04a076446a9ad" data-businessunit-id="5e19dabeef2a2d0001bd0c4c" data-style-height="30px" data-style-width="100%" data-theme="light" data-stars="4,5">
+                    <a href="https://uk.trustpilot.com/review/www.propertyturkey.com" target="_blank">Trustpilot</a>
+                </div>
+                <!-- End TrustBox widget -->
+            </div>
+        </div>
+    </div>
+
+    <div class="coppywrite">
+        <div class="container">
+            <p>Copyright © 2023 Property Turkey Limited. All Rights Reserved.</p>
+        </div>
+    </div>
+</footer>
+
+<!-- start social media fixed icons -->
+
+
+<div class="social-iconss" id="s-icons">
+    <ul class="navbar-nav">
+                <li class="dropdownn">
+            <a href="#" class="btnnn btn-primaryy btn-sociall footer-phone"><img class="img-fluid" src="../fonts/path392.svg" width="35"></a>
+            <div class="dropdown-content">
+                <a href="tel:+44 20 8371 0059">LN +44 20 8371 0059</a>
+                <a href="tel:+90 212 215 0022">TR +90 212 215 0022</a>
+            </div>
+        </li>
+                        <li><a href="https://wa.me/905051771838" target="_blank" class="btnnn btn-primaryy btn-sociall"><img class="img-fluid" src="../fonts/whatsapp-brands.svg" width="35"></a></li>
+                        <li><a href="https://www.propertyturkey.com/contact-us" class="btnnn btn-primaryy btn-sociall"><img class="img-fluid" src="../fonts/contact.svg" width="35"></a></li>
+        
+    </ul>
+    <button class="btnnn btn-primaryy-1 btn-social pulse-animation" id="btn-share">
+        <img class="img-fluid chat-icon" src="../fonts/white-phone-logo.svg" width="40">
+        <img class="img-fluid hide close-icon" id="close-btnn" src="../fonts/path387.svg" width="30">
+    </button>
+</div>
+
+
+
+<!-- end social media fixed icons -->
+
+<div style="display:none">
+    <div class="form_popup newcolor" id="data">
+        <form action="https://www.propertyturkey.com/new-property-enquiry" method="post" class="box white clearfix">
+    <h3 class="title col-dis-12 col-tab-12 col-mob-12">Property Enquiry</h3>
+    <div grid>
+        <div class="col-dis-12 col-tab-12 col-mob-12">
+            <label class="field col-dis-12 col-tab-6 col-mob-12">
+                <input name="first_name" type="text" placeholder="your name *" value validation>
+            </label>
+                        <div class="field col-dis-12 col-tab-6 col-mob-12">
+                <input name="phone" type="text" class="input-tel" placeholder="Phone" value validation>
+            </div>
+
+            <label class="field col-dis-12 col-tab-6 col-mob-12">
+                <input name="email" type="text" placeholder="E-mail" value validation="email">
+            </label>
+                        <label class="field col-dis-12 col-tab-12 col-mob-12">
+                <textarea name="msg" placeholder="Message">I'm interested in this property</textarea>
+            </label>
+
+        </div>
+    </div>
+    <div class="actions  col-dis-12 col-tab-12 col-mob-12 flex content-center padding-bottom-05">
+    
+        <input name="requestUrl" type="hidden" value="https://www.propertyturkey.com/front/build/bundleCSS.css?v=1.2.224100699">
+                
+        <input type="hidden" id="propertyID" value name="propertyID[]">
+
+        <input type="text" style="display: none" name="enqID" value>
+                <input type="submit" value="Send" class="btn btn-sm-change col-mob-6" onclick="if (!window.__cfRLUnblockHandlers) return false; ga('create', 'UA-42286063-1', 'auto'); ga('send', 'event', 'QuickEnquiry', 'CLICK', 'SUBMIT');" data-cf-modified-556fd454bd9c2c09a017ba2d->
+    </div>
+</form>    </div>
+</div>
+<!--  -->
+<div class="tooltip"></div>
+<div class="message closed"></div>
+<div id="exit-intent" class="align-center">
+        <form method="POST" action="https://www.propertyturkey.com/enquire_now" accept-charset="UTF-8" class="box white clearfix"><input name="_token" type="hidden" value="YRTiHnYCcj2mwXbK10JMuaFax4pZ5VpFSG9sx3Mf">
+        <input name="current" type="hidden" value="https://www.propertyturkey.com/front/build/owl.video.play.png">
+        <input name="section" type="hidden" value="static">
+        <input name="type" type="hidden" value="gEnquire">
+                <a href="https://www.propertyturkey.com/real_estate/4341-finest-panoramic-princess-island-vista-kartal-properties"> <img class="lazyload" data-src="https://www.propertyturkey.com/images/exit-extent.jpg" alt="Smartly priced seafront Homes Istanbul"></a>
+                         <h2>Smartly priced seafront Homes Istanbul</h2>
+        <h3>Do not miss this opportunity  </h3>
+                <a class="fa fa-close closeIntent"></a>
+        <label class="field">
+            <input title="your name *" validation placeholder="Name" name="name" type="text">
+        </label>
+        <label class="field">
+            <input title="your e-mail *" type="email" validation="email" placeholder="E-mail" name="email">
+        </label>
+        <div class="field">
+            <input title="Please, write your phone *" validation placeholder="Phone" class="input-tel" name="phone" type="text">
+        </div>
+       
+       
+        <label class="field">
+            <textarea title="Area of interest" rows="3" validation placeholder="Area of interest" name="message" cols="50"></textarea>
+        </label>
+      
+                <br>
+        <input type="text" style="display: none" name="enqID" value>
+        <input class="btn col-3" type="submit" value="Send Enquire">
+
+        </form>
+
+    
+   
+        
+</div>
+
+<script src="../js/typeahead.js" type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+<script src="../js/tp.widget.bootstrap.min.js" async type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+<script src="../js/popper.min.js" crossorigin="anonymous" type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+<script src="../js/bootstrap.min.js" crossorigin="anonymous" referrerpolicy="no-referrer" type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+<script src="../js/vendors~bundleJS.js" async type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+<script src="../js/bundleJS.js" async type="556fd454bd9c2c09a017ba2d-text/javascript"></script>
+
+
+
+<!--Start of Tawk.to Script-->
+<script type="556fd454bd9c2c09a017ba2d-text/javascript">
+
+
+/*run audio file in background*/
+$(document).ready(function() {
+    if($("#my_audio").length){
+        $("#my_audio").trigger('play');
+    }
+});
+
+
+
+</script>
+
+<!--End of Tawk.to Script-->
+
+
+
+<div class="widget sticky-to-parent enquire" style="display:none !important;">
+        <form method="POST" action="https://www.propertyturkey.com/enquire_now" accept-charset="UTF-8" class="body"><input name="_token" type="hidden" value="YRTiHnYCcj2mwXbK10JMuaFax4pZ5VpFSG9sx3Mf">
+        <input name="current" type="hidden" value="https://www.propertyturkey.com/front/build/owl.video.play.png">
+        <input name="section" type="hidden" value="static">
+        <input name="type" type="hidden" value="gEnquire">
+        <label class="field">
+            <input title="your name *" validation placeholder="Name" name="name" type="text">
+        </label>
+        <label class="field">
+            <input title="your e-mail *" type="email" validation="email" placeholder="E-mail" name="email">
+        </label>
+        <div class="field">
+            <input title="Please, write your phone *" validation placeholder="Phone" class="input-tel" name="phone" type="text">
+        </div>
+        <label class="field">
+            <textarea title="Please, write your message *" rows="3" validation placeholder="Message" name="message" cols="50"></textarea>
+        </label>
+                <input type="text" style="display: none" name="enqID" value>
+        <input class="btn col-12" type="submit" value="Send Enquire">
+
+        </form>
+    </div>
+
+<script src="../js/rocket-loader.min.js" data-cf-settings="556fd454bd9c2c09a017ba2d-|49" defer></script></body>
+</html>

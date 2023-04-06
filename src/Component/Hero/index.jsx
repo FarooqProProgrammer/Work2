@@ -3,8 +3,9 @@ import React from 'react'
 export default function Hero() {
     return (
         <div
-            className="container-pt bg-pt-light-red"
-            style={{ backgroundColor: "#e5e4d5" }}
+            className="container-pt bg-pt-light-red "
+            style={{ backgroundColor: "#e5e4d5",marginTop:60 }}
+        
         >
             <div
                 className="row align-itens-center justify-content-center mt-6 pt-4 align-items-center"

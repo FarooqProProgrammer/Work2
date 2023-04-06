@@ -8,3 +8,8 @@
 }
 
 
+@media (max-width:880px) {
+.hot-properties-bg {
+    margin-top: 200px;
+}
+}
