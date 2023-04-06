@@ -36,7 +36,7 @@ export default function AboutusGuideTag() {
           itemScope=""
           itemType="http://schema.org/ListItem"
         >
-          <a href="https://www.propertyturkey.com">
+          <a >
             <img
               src="https://www.propertyturkey.com/front/image/images2019/Icons/home-logo.svg"
               className="img-fluid"
@@ -182,7 +182,7 @@ export default function AboutusGuideTag() {
             </p>
             <p>
               <a
-                href="https://www.propertyturkey.com/about-us/bodrum-team"
+                
                 title=""
               >
                 Bodrum
@@ -191,7 +191,7 @@ export default function AboutusGuideTag() {
             </p>
             <p>
               <a
-                href="https://www.propertyturkey.com/about-us/fethiye-team"
+                
                 title=""
               >
                 Fethiye &amp; Kalkan
@@ -200,7 +200,7 @@ export default function AboutusGuideTag() {
             </p>
             <p>
               <a
-                href="https://www.propertyturkey.com/about-us/antalya-team"
+                
                 title=""
               >
                 Antalya
@@ -209,7 +209,7 @@ export default function AboutusGuideTag() {
             </p>
             <p>
               <a
-                href="https://www.propertyturkey.com/about-us/istanbul-team"
+                
                 title=""
               >
                 Istanbul
@@ -530,7 +530,7 @@ export default function AboutusGuideTag() {
                   PropertyTurkey.com was designed and developed by{" "}
                   <em>
                     <strong>
-                      <a href="http://www.buxup.co.uk">BuxUp.co.uk</a>
+                      <a >BuxUp.co.uk</a>
                     </strong>
                   </em>
                 </span>
@@ -594,7 +594,7 @@ export default function AboutusGuideTag() {
                     <a
                         data-fancybox=""
                         data-caption="Did you know that Turkey is the centre of the world? Did you know that Santa Claus was born in Turkey? Discover how, as well as several other amazing facts about Turkey in this new fun episode."
-                        href="https://www.youtube.com/watch?v=B2g7571VBe8"
+                        
                         className="video-item right-padding-only mb-sm-15 p-17"
                     >
                         <div className="figure-container">
@@ -622,7 +622,7 @@ export default function AboutusGuideTag() {
                     <a
                         data-fancybox=""
                         data-caption="Did you know that Turkey is the centre of the world? Did you know that Santa Claus was born in Turkey? Discover how, as well as several other amazing facts about Turkey in this new fun episode."
-                        href="https://www.youtube.com/watch?v=B2g7571VBe8"
+                        
                         className="video-item right-padding-only mb-sm-15 p-17"
                     >
                         <div className="figure-container">
@@ -650,7 +650,7 @@ export default function AboutusGuideTag() {
                     <a
                         data-fancybox=""
                         data-caption="Did you know that Turkey is the centre of the world? Did you know that Santa Claus was born in Turkey? Discover how, as well as several other amazing facts about Turkey in this new fun episode."
-                        href="https://www.youtube.com/watch?v=B2g7571VBe8"
+                        
                         className="video-item right-padding-only mb-sm-15 p-17"
                     >
                         <div className="figure-container">
@@ -680,14 +680,14 @@ export default function AboutusGuideTag() {
             <a
                 className="view-all-btn btn margin-top-2 rednew-border"
                 style={{ padding: ".5rem 2rem !important", backgroundColor: "transparent" }}
-                href="https://www.propertyturkey.com/tv"
+                
             >
                 <span>View All</span>
             </a>
         </section>
         <aside className="widgets col-dis-3 col-tab-3 col-mob-12 no-padding widget-blogendpage">
           <a
-            href="https://www.propertyturkey.com/uploads/pt-online-brochure.pdf"
+            
             title="download our online borchour"
             target="_blank"
           >
@@ -705,7 +705,7 @@ export default function AboutusGuideTag() {
                 <p>The Definitive guide to buying property in Turkey</p>
                 <div className="padding-bottom-11">
                   <a
-                    href="https://www.propertyturkey.com/buyer-guide/definitive-buyer-guide-pdf"
+                    
                     title="Definitive Buyer Guide PDF"
                     className="btn right-widget-hover"
                   >
@@ -721,7 +721,7 @@ export default function AboutusGuideTag() {
               <ul className="no-bullet">
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/big-life-by-the-little-bosphorus-istanbul"
+                    
                     title="Big Life by the Little Bosphorus Istanbul"
                   >
                     Big Life by the Little Bosphorus Istanbul
@@ -729,7 +729,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/turkish-citizenship-benefits-for-foreign-investors"
+                    
                     title="Turkish Citizenship benefits for Foreign Investors"
                   >
                     Turkish Citizenship benefits for Foreign Investors
@@ -737,7 +737,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/experience-old-constantinople-through-the-old-hippodrome"
+                    
                     title="Experience Old Constantinople Through the Old Hippodrome"
                   >
                     Experience Old Constantinople Through the Old Hippodrome
@@ -745,7 +745,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/famous-bosphorus-bridges-of-istanbul"
+                    
                     title="Famous Bosphorus Bridges of Istanbul"
                   >
                     Famous Bosphorus Bridges of Istanbul
@@ -753,7 +753,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/soaring-high-in-the-majestic-taurus-mountains-of-turkey"
+                    
                     title="Soaring High in the Majestic Taurus Mountains of Turkey"
                   >
                     Soaring High in the Majestic Taurus Mountains of Turkey
@@ -761,7 +761,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/turkey-earthquake-exposes-the-need-for-massive-urban-regeneration"
+                    
                     title="Turkey Earthquake Exposes the Need for Massive Urban Regeneration"
                   >
                     Turkey Earthquake Exposes the Need for Massive Urban
@@ -770,7 +770,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/sultanahmet-and-the-old-city-of-istanbul-from-past-to-present"
+                    
                     title="Sultanahmet and the Old City of Istanbul from Past to Present"
                   >
                     Sultanahmet and the Old City of Istanbul from Past to Present
@@ -778,7 +778,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/from-constantinople-to-istanbul-the-pride-of-turkey"
+                    
                     title="From Constantinople to Istanbul – The Pride of Turkey"
                   >
                     From Constantinople to Istanbul – The Pride of Turkey
@@ -786,7 +786,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/why-you-should-visit-izmir-in-aegean-turkey"
+                    
                     title="Why You Should Visit Izmir in Aegean Turkey"
                   >
                     Why You Should Visit Izmir in Aegean Turkey
@@ -794,7 +794,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/blog-turkey/the-glorious-golden-horn-of-istanbul"
+                    
                     title="The Glorious Golden Horn of Istanbul"
                   >
                     The Glorious Golden Horn of Istanbul
@@ -809,7 +809,7 @@ export default function AboutusGuideTag() {
               <ul className="no-bullet">
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/turkey-to-designate-15-more-nature-conservation-areas"
+                    
                     title="Turkey to designate 15 more 'nature conservation areas'"
                   >
                     Turkey to designate 15 more 'nature conservation areas'
@@ -817,7 +817,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/january-tourism-records-broken-in-turkeys-antalya"
+                    
                     title="January tourism records broken in Turkey’s Antalya"
                   >
                     January tourism records broken in Turkey’s Antalya
@@ -825,7 +825,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/1-million-cruise-passengers-hosted-in-turkey-in-2022"
+                    
                     title="1 million cruise passengers hosted in Turkey in 2022"
                   >
                     1 million cruise passengers hosted in Turkey in 2022
@@ -833,7 +833,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/record-visitors-head-to-cappadocia-in-january"
+                    
                     title="Record visitors head to Cappadocia in January"
                   >
                     Record visitors head to Cappadocia in January
@@ -841,7 +841,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/turkey-looks-to-expand-free-program-to-5-million-students"
+                    
                     title="Turkey looks to expand free program to 5 million students"
                   >
                     Turkey looks to expand free program to 5 million students
@@ -849,7 +849,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/top-migration-hub-of-turkey-remains-istanbul-once-again"
+                    
                     title="Top migration hub of Turkey remains Istanbul once again"
                   >
                     Top migration hub of Turkey remains Istanbul once again
@@ -857,7 +857,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/europes-busiest-airport-in-2022-istanbul-airport"
+                    
                     title="Europe’s busiest airport in 2022: Istanbul Airport"
                   >
                     Europe’s busiest airport in 2022: Istanbul Airport
@@ -865,7 +865,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/integration-of-new-metro-welcomed-in-istanbul"
+                    
                     title="Integration of new metro welcomed in Istanbul"
                   >
                     Integration of new metro welcomed in Istanbul
@@ -873,7 +873,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/foreign-arrivals-to-turkey-continue-to-increase"
+                    
                     title="Foreign arrivals to Turkey continue to increase"
                   >
                     Foreign arrivals to Turkey continue to increase
@@ -881,7 +881,7 @@ export default function AboutusGuideTag() {
                 </li>
                 <li>
                   <a
-                    href="https://www.propertyturkey.com/news/over-30000-passengers-arrive-to-antalya-by-cruise"
+                    
                     title="Over 30,000 passengers arrive to Antalya by cruise"
                   >
                     Over 30,000 passengers arrive to Antalya by cruise
@@ -992,7 +992,7 @@ export default function AboutusGuideTag() {
           <p className="text-left">
             {" "}
             Do you have an account?{" "}
-            <a className="clr-pt" href="https://www.propertyturkey.com/login">
+            <a className="clr-pt" >
               {" "}
               Login
             </a>

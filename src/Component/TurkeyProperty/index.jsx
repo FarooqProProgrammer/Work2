@@ -138,7 +138,7 @@ export default function TurkeyProperty() {
                 <div className="col-12">
                     <div className="text-center mt-4">
                         <a
-                            href="https://www.propertyturkey.com/buyer-guide/why-invest-in-property-in-turkey"
+                            
                             className="btn sec-about--btn rednew-border bg-transparent"
                         >
                             Read More

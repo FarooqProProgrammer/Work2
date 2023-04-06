@@ -147,7 +147,7 @@ export default function HeroSection() {
                                 id="search-filter"
                             >
                                 <a
-                                    href="https://www.propertyturkey.com/en/real_estate/turkey"
+                                    
                                     className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
                                 >
                                     <div className="col-auto">
@@ -177,7 +177,7 @@ export default function HeroSection() {
                                 </a>
                                 <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                                     <a
-                                        href="https://www.propertyturkey.com/en/real_estate/turkey"
+                                        
                                         className="text-pt-dark-red fs-6"
                                     >
                                         <em className="text-uppercase">
@@ -197,7 +197,7 @@ export default function HeroSection() {
                                 <div className="row pb-3 responsive-links">
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Recommended Properties in Istanbul</span>
@@ -206,7 +206,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Recommended Properties in Bodrum</span>
@@ -215,7 +215,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/antalya"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Recommended Properties in Antalya</span>
@@ -224,7 +224,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bursa"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Recommended Properties in Bursa</span>
@@ -233,7 +233,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Recommended Properties in Fethiye</span>
@@ -242,7 +242,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/property-turkey-citizenship-by-investment-programme"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Turkish Citizenship by Property Investment</span>
@@ -1941,7 +1941,7 @@ export default function HeroSection() {
                                 id="search-filter"
                             >
                                 <a
-                                    href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul"
+                                    
                                     className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
                                 >
                                     <div className="col-auto">
@@ -1971,7 +1971,7 @@ export default function HeroSection() {
                                 </a>
                                 <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                                     <a
-                                        href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul"
+                                        
                                         className="text-pt-dark-red fs-6"
                                     >
                                         <em className="text-uppercase">
@@ -1991,7 +1991,7 @@ export default function HeroSection() {
                                 <div className="row pb-3 responsive-links">
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/6901-unmissable-investment-opportunity-historic-istanbul-centre"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Little Bosphorus by Rams Golden Horn Apartments</span>
@@ -2000,7 +2000,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul/apartment?bedroom=2"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>2 Bedroom Apartments for Sale</span>
@@ -2009,7 +2009,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul/apartment?priceRange=0.00:200000.00"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Apartments in Istanbul Under $200,000</span>
@@ -2018,7 +2018,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul/apartment?bedroom=3"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>3 Bedroom Apartments for Sale</span>
@@ -2027,7 +2027,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/istanbul/villa?priceRange=0.00:750000.00"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Villas in Istanbul Under $750,000</span>
@@ -2036,7 +2036,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/search?keyword=Sea+view+properties+in+Istanbul"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Sea View Properties in Istanbul</span>
@@ -4747,7 +4747,7 @@ export default function HeroSection() {
                                 id="search-filter"
                             >
                                 <a
-                                    href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum"
+                                    
                                     className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
                                 >
                                     <div className="col-auto">
@@ -4777,7 +4777,7 @@ export default function HeroSection() {
                                 </a>
                                 <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                                     <a
-                                        href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum"
+                                        
                                         className="text-pt-dark-red fs-6"
                                     >
                                         <em className="text-uppercase">
@@ -4797,7 +4797,7 @@ export default function HeroSection() {
                                 <div className="row pb-3 responsive-links">
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/villa?priceRange=0.00:750000.00"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Villas in Bodrum Under $750,000</span>
@@ -4806,7 +4806,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/beachfront/turkey/bodrum"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Beachfront Homes in Bodrum</span>
@@ -4815,7 +4815,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/luxury/turkey/bodrum/villa"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Luxury Villas for Sale in Bodrum</span>
@@ -4824,7 +4824,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/yalikavak/villa"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Villas in Yalikavak for Sale</span>
@@ -4833,7 +4833,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/villa?bedroom=4"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>4 Bedroom Villas in Bodrum</span>
@@ -4842,7 +4842,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/gumusluk/villa"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Villas in Gumusluk for Sale</span>
@@ -6744,7 +6744,7 @@ export default function HeroSection() {
                                 id="search-filter"
                             >
                                 <a
-                                    href="https://www.propertyturkey.com/en/real_estate/turkey/antalya"
+                                    
                                     className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
                                 >
                                     <div className="col-auto">
@@ -6774,7 +6774,7 @@ export default function HeroSection() {
                                 </a>
                                 <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                                     <a
-                                        href="https://www.propertyturkey.com/en/real_estate/turkey/antalya"
+                                        
                                         className="text-pt-dark-red fs-6"
                                     >
                                         <em className="text-uppercase">
@@ -6794,7 +6794,7 @@ export default function HeroSection() {
                                 <div className="row pb-3 responsive-links">
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/antalya/apartment?bedroom=2"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>2 Bedroom Apartments for Sale</span>
@@ -6803,7 +6803,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/antalya/apartment?priceRange=0.00:150000.00"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Apartments in Antalya Under $150,000</span>
@@ -6812,7 +6812,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/antalya/villa?bedroom=4"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>4 Bedroom Villas for Sale in Antalya</span>
@@ -6821,7 +6821,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/beachfront/turkey/antalya"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Beachfront Homes in Antalya</span>
@@ -6830,7 +6830,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/antalya/konyaalti"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Property in Konyaalti for Sale</span>
@@ -6839,7 +6839,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/antalya/lara"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Property in Lara for Sale</span>
@@ -8365,7 +8365,7 @@ export default function HeroSection() {
                                 id="search-filter"
                             >
                                 <a
-                                    href="https://www.propertyturkey.com/en/real_estate/turkey/bursa"
+                                    
                                     className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
                                 >
                                     <div className="col-auto">
@@ -8395,7 +8395,7 @@ export default function HeroSection() {
                                 </a>
                                 <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                                     <a
-                                        href="https://www.propertyturkey.com/en/real_estate/turkey/bursa"
+                                        
                                         className="text-pt-dark-red fs-6"
                                     >
                                         <em className="text-uppercase">
@@ -8415,7 +8415,7 @@ export default function HeroSection() {
                                 <div className="row pb-3 responsive-links">
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bursa?bedroom=3"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>3 Bedroom Properties for Sale</span>
@@ -8424,7 +8424,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bursa?bedroom=2"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>2 Bedroom Apartments for Sale</span>
@@ -8433,7 +8433,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bursa/villa?bedroom=3"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>3 Bedroom Villas in Bursa for Sale</span>
@@ -8442,7 +8442,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/bursa?bedroom=4"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>4 Bedroom Properties in Bursa</span>
@@ -9678,7 +9678,7 @@ export default function HeroSection() {
                                 id="search-filter"
                             >
                                 <a
-                                    href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye"
+                                    
                                     className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
                                 >
                                     <div className="col-auto">
@@ -9708,7 +9708,7 @@ export default function HeroSection() {
                                 </a>
                                 <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                                     <a
-                                        href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye"
+                                        
                                         className="text-pt-dark-red fs-6"
                                     >
                                         <em className="text-uppercase">
@@ -9728,7 +9728,7 @@ export default function HeroSection() {
                                 <div className="row pb-3 responsive-links">
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye?priceRange=0.00:300000.00"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Properties in Fethiye Under $300,000</span>
@@ -9737,7 +9737,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye/villa?bedroom=3"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>3 Bedroom Villas for Sale</span>
@@ -9746,7 +9746,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye/villa?bedroom=4"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>4 Bedroom Villas for Sale</span>
@@ -9755,7 +9755,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye/calis"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Properties in Calis for Sale</span>
@@ -9764,7 +9764,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye/ovacik"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Properties in Ovacik for Sale</span>
@@ -9773,7 +9773,7 @@ export default function HeroSection() {
                                     </div>
                                     <div className="col-md-4 mb-1">
                                         <a
-                                            href="https://www.propertyturkey.com/en/real_estate/turkey/fethiye/uzumlu"
+                                            
                                             className="text-pt-dark-red fs-6"
                                         >
                                             <span>Properties in Uzumlu for Sale</span>

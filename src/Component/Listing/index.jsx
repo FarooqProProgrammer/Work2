@@ -5,7 +5,7 @@ export default function Listing() {
     return (
         <div className="w-100 bg-pt-off-white p-4 showRefId" id="search-filter">
             <a
-                href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum"
+                
                 className="d-md-none d-flex align-items-center mt-3 py-2 bg-pt-gray-2"
             >
                 <div className="col-auto">
@@ -35,7 +35,7 @@ export default function Listing() {
             </a>
             <p className="text-pt-dark-red fs-6 fw-bold mt-md-0 mt-3 d-md-block d-none">
                 <a
-                    href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum"
+                    
                     className="text-pt-dark-red fs-6"
                 >
                     <em className="text-uppercase">
@@ -53,7 +53,7 @@ export default function Listing() {
             <div className="row pb-3 responsive-links">
                 <div className="col-md-4 mb-1">
                     <a
-                        href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/villa?priceRange=0.00:750000.00"
+                        
                         className="text-pt-dark-red fs-6"
                     >
                         <span>Villas in Bodrum Under $750,000</span>
@@ -62,7 +62,7 @@ export default function Listing() {
                 </div>
                 <div className="col-md-4 mb-1">
                     <a
-                        href="https://www.propertyturkey.com/en/real_estate/beachfront/turkey/bodrum"
+                        
                         className="text-pt-dark-red fs-6"
                     >
                         <span>Beachfront Homes in Bodrum</span>
@@ -71,7 +71,7 @@ export default function Listing() {
                 </div>
                 <div className="col-md-4 mb-1">
                     <a
-                        href="https://www.propertyturkey.com/en/real_estate/luxury/turkey/bodrum/villa"
+                        
                         className="text-pt-dark-red fs-6"
                     >
                         <span>Luxury Villas for Sale in Bodrum</span>
@@ -80,7 +80,7 @@ export default function Listing() {
                 </div>
                 <div className="col-md-4 mb-1">
                     <a
-                        href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/yalikavak/villa"
+                        
                         className="text-pt-dark-red fs-6"
                     >
                         <span>Villas in Yalikavak for Sale</span>
@@ -89,7 +89,7 @@ export default function Listing() {
                 </div>
                 <div className="col-md-4 mb-1">
                     <a
-                        href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/villa?bedroom=4"
+                        
                         className="text-pt-dark-red fs-6"
                     >
                         <span>4 Bedroom Villas in Bodrum</span>
@@ -98,7 +98,7 @@ export default function Listing() {
                 </div>
                 <div className="col-md-4 mb-1">
                     <a
-                        href="https://www.propertyturkey.com/en/real_estate/turkey/bodrum/gumusluk/villa"
+                        
                         className="text-pt-dark-red fs-6"
                     >
                         <span>Villas in Gumusluk for Sale</span>

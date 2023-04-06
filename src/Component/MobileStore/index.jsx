@@ -19,7 +19,7 @@ export default function MobileStore() {
     <div className="fl-dis-left fl-tab-left banner-element">
       <div className="app-icons">
         <a
-          href="https://itunes.apple.com/eg/app/property-turkey/id1078608326"
+          
           className="col-tab-6 col-dis-6 col-mob-6"
         >
           <img
@@ -29,7 +29,7 @@ export default function MobileStore() {
           />
         </a>
         <a
-          href="https://play.google.com/store/apps/details?id=com.kickstartinteractive.propertyturkey"
+          
           className="col-tab-6 col-dis-6 col-mob-6"
         >
           <img

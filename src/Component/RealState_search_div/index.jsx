@@ -63,36 +63,36 @@ const RealState_search_div = () => {
       <p>
         With so many lovely resorts and towns to choose from, it is a task in
         itself to decide where to buy that special{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/villa">
+        <a >
           villa in Turkey
         </a>{" "}
         or that sea view apartment, which will be your new home in Turkey and
         double up for some rental income. According to statistics published by
         the Turkish real estate agents association, Antalya, Fethiye, Bodrum and
         Side are the most popular holiday home destinations in Turkey.{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/antalya">
+        <a >
           Properties in Antalya
         </a>{" "}
         enjoy the proximity of a bustling seaside city with lovely beaches and
         excellent golf courses of Belek, whereas{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/kalkan">
+        <a >
           Kalkan properties
         </a>{" "}
         provide some of the most dramatic sea views experienced in the entire
         Mediterranean, not to mention Kalkan's elegant setting and fine dining.{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/side">
+        <a >
           Side holiday homes for sale
         </a>{" "}
         are ideal for families with children, where shallow waters gently touch
         sandy shores.{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/bodrum">
+        <a >
           Real estate in Bodrum
         </a>{" "}
         on the other hand is your key to Turkey's most sophisticated resort with
         plenty of sailing and seafront homes in lovely Yalikavak, Turkbuku or
         Gumusluk. Then we have sun-soaked Fethiye with most affordable villas
         and{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/apartment">
+        <a >
           flats for sale in Turkey
         </a>{" "}
         near the most pictured Oludeniz beach. &nbsp;
@@ -198,7 +198,7 @@ const RealState_search_div = () => {
       Continue Reading
     </a>
   </div>
-  <div className="wrap-dis-9 wrap-tab-9 wrap-mob-9 clearfix">
+  {/* <div className="wrap-dis-9 wrap-tab-9 wrap-mob-9 clearfix">
     <div className="meta cf flex items-center listing-sort">
       <label className="fl-dis-left fl-tab-left fl-mob-left margin-right-auto">
         1 - <span className="totelperPage-listing">24</span> of{" "}
@@ -237,7 +237,6 @@ const RealState_search_div = () => {
               </a>
               <a
                 id="testsort-2a"
-                href="https://www.propertyturkey.com/real_estate/turkey?l=desc"
                 className="col-mob-4 btn small "
                 title="Latest Property"
                 rel="nofollow"
@@ -246,7 +245,6 @@ const RealState_search_div = () => {
               </a>
               <a
                 id="testsort-3a"
-                href="https://www.propertyturkey.com/real_estate/turkey?p=desc"
                 className="col-mob-4 btn small "
                 title="Highest Price"
                 rel="nofollow"
@@ -255,7 +253,6 @@ const RealState_search_div = () => {
               </a>
               <a
                 id="testsort-4a"
-                href="https://www.propertyturkey.com/real_estate/turkey?p=asc"
                 className="col-mob-4 btn small "
                 title="Lowest Price"
                 rel="nofollow"
@@ -264,7 +261,6 @@ const RealState_search_div = () => {
               </a>
               <a
                 id="testsort-5a"
-                href="https://www.propertyturkey.com/real_estate/turkey?s=desc"
                 className="col-mob-4 btn small "
                 title="Highest Space"
                 rel="nofollow"
@@ -320,7 +316,7 @@ const RealState_search_div = () => {
         </div>
       </div>
     </div>
-  </div>
+  </div> */}
   <div className="wrap-dis-9 wrap-tab-9 wrap-mob-9 clearfix mt-3">
     <div className="row cardRow">
             
@@ -342,7 +338,7 @@ const RealState_search_div = () => {
       </a>
     </div>
   </div>
-  <div className="pagination">
+  {/* <div className="pagination">
     <ul>
       <li className="previous disabled">
         <span className="icon-chevron-left">
@@ -1067,7 +1063,7 @@ const RealState_search_div = () => {
     >
       Get Property <b>ALERTS</b>
     </a>
-  </div>
+  </div> */}
   <div
     className="intro wrap-dis-9 wrap-tab-9 wrap-mob-9 clearfix' }} introDescription pt-footer"
     id="introDescription"
@@ -1091,36 +1087,36 @@ const RealState_search_div = () => {
       <p>
         With so many lovely resorts and towns to choose from, it is a task in
         itself to decide where to buy that special{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/villa">
+        <a href="">
           villa in Turkey
         </a>{" "}
         or that sea view apartment, which will be your new home in Turkey and
         double up for some rental income. According to statistics published by
         the Turkish real estate agents association, Antalya, Fethiye, Bodrum and
         Side are the most popular holiday home destinations in Turkey.{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/antalya">
+        <a href="">
           Properties in Antalya
         </a>{" "}
         enjoy the proximity of a bustling seaside city with lovely beaches and
         excellent golf courses of Belek, whereas{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/kalkan">
+        <a href="">
           Kalkan properties
         </a>{" "}
         provide some of the most dramatic sea views experienced in the entire
         Mediterranean, not to mention Kalkan's elegant setting and fine dining.{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/side">
+        <a href="">
           Side holiday homes for sale
         </a>{" "}
         are ideal for families with children, where shallow waters gently touch
         sandy shores.{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/bodrum">
+        <a href="">
           Real estate in Bodrum
         </a>{" "}
         on the other hand is your key to Turkey's most sophisticated resort with
         plenty of sailing and seafront homes in lovely Yalikavak, Turkbuku or
         Gumusluk. Then we have sun-soaked Fethiye with most affordable villas
         and{" "}
-        <a href="https://www.propertyturkey.com/real_estate/turkey/apartment">
+        <a href="">
           flats for sale in Turkey
         </a>{" "}
         near the most pictured Oludeniz beach. &nbsp;

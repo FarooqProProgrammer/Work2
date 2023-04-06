@@ -19,7 +19,7 @@ export default function Citizen() {
                         will also be eligible for Turkish nationality. Please contact us for further details, legal advice
                         and a list of properties in Turkey that are pre-approved for the citizenship by investment program.
                     </p>
-                    <a className="about-pt--btn btn rednew-border bg-transparent" href="https://www.propertyturkey.com/property-turkey-citizenship-by-investment-programme">Discover
+                    <a className="about-pt--btn btn rednew-border bg-transparent" >Discover
                         More</a>
                 </div>
             </div>

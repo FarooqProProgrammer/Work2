@@ -14,7 +14,7 @@ export default function BuyerGuidetag() {
         itemScope=""
         itemType="http://schema.org/ListItem"
       >
-        <a href="https://www.propertyturkey.com">
+        <a >
           <img
             src="https://www.propertyturkey.com/front/image/images2019/Icons/home-logo.svg"
             className="img-fluid"
@@ -58,7 +58,7 @@ export default function BuyerGuidetag() {
             <ul className="list-unstyled buyer-guide--ul hide">
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/why-invest-in-property-in-turkey"
+                  
                   title="Why invest in property in Turkey"
                 >
                   Why invest in property in Turkey
@@ -66,7 +66,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/how-to-set-up-a-business-in-turkey"
+                  
                   title="How to set up a business in Turkey"
                 >
                   How to set up a business in Turkey
@@ -74,7 +74,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/tax-and-turkish-real-estate"
+                  
                   title="Tax and Turkish real estate"
                 >
                   Tax and Turkish real estate
@@ -82,7 +82,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/eu-negotiations-and-turkish-property-prices"
+                  
                   title="EU negotiations and Turkish property prices"
                 >
                   EU negotiations and Turkish property prices
@@ -90,7 +90,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/turkey-macroeconomic-and-investment-analysis"
+                  
                   title="Download macro-economic & investment analysis"
                 >
                   Download macro-economic &amp; investment analysis
@@ -108,7 +108,7 @@ export default function BuyerGuidetag() {
             <ul className="list-unstyled buyer-guide--ul hide">
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/who-can-buy-property-in-turkey"
+                  
                   title="Who Can Buy Property in Turkey"
                 >
                   Who Can Buy Property in Turkey
@@ -116,7 +116,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/How_to_buy_property_in_Turkey"
+                  
                   title="How to buy property in Turkey"
                 >
                   How to buy property in Turkey
@@ -124,7 +124,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/How_to_buy_property_in_Turkey/how-to-design-and-build-your-own"
+                  
                   title="How to design and build your own"
                 >
                   How to design and build your own
@@ -132,7 +132,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/inspection-trip"
+                  
                   title="Property Turkey Inspection Trips"
                 >
                   Property Turkey Inspection Trips
@@ -140,7 +140,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/virtual-tour-with-property-turkey"
+                  
                   title="Virtual Tour with Property Turkey"
                 >
                   Virtual Tour with Property Turkey
@@ -148,7 +148,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/costs-of-purchasing-a-property-in-turkey"
+                  
                   title="Costs of Purchasing a Property in Turkey"
                 >
                   Costs of Purchasing a Property in Turkey
@@ -156,7 +156,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/finance-for-property-in-turkey"
+                  
                   title="Finance for property in Turkey"
                 >
                   Finance for property in Turkey
@@ -164,7 +164,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/property-maintenance-in-turkey-fees-and-costs"
+                  
                   title="Property maintenance and management"
                 >
                   Property maintenance and management
@@ -172,7 +172,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/how-to-get-a-turkish-title-deed-tapu"
+                  
                   title="How to get a Turkish Title Deed"
                 >
                   How to get a Turkish Title Deed
@@ -180,7 +180,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/should-i-use-a-solicitor-to-buy-property-in-turkey"
+                  
                   title="Should I use a solicitor to buy property in Turkey"
                 >
                   Should I use a solicitor to buy property in Turkey
@@ -188,7 +188,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/power-of-attorney-in-turkey"
+                  
                   title="Power of Attorney in Turkey"
                 >
                   Power of Attorney in Turkey
@@ -196,7 +196,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/buying-property-in-turkey-through-a-company"
+                  
                   title="Buying property in Turkey through a company"
                 >
                   Buying property in Turkey through a company
@@ -217,7 +217,7 @@ export default function BuyerGuidetag() {
             <ul className="list-unstyled buyer-guide--ul hide">
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/residency-permits-in-turkey"
+                  
                   title="Residency permits in Turkey"
                 >
                   Residency permits in Turkey
@@ -225,7 +225,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/work-permits-in-turkey"
+                  
                   title="Work permits in Turkey"
                 >
                   Work permits in Turkey
@@ -243,7 +243,7 @@ export default function BuyerGuidetag() {
             <ul className="list-unstyled buyer-guide--ul hide">
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/bringing-your-pets-into-turkey"
+                  
                   title="Bringing your pets into Turkey"
                 >
                   Bringing your pets into Turkey
@@ -251,7 +251,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/bringing-your-car-into-turkey"
+                  
                   title="Bringing your car into Turkey"
                 >
                   Bringing your car into Turkey
@@ -269,7 +269,7 @@ export default function BuyerGuidetag() {
             <ul className="list-unstyled buyer-guide--ul hide">
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/income-tax-on-turkish-property"
+                  
                   title="Income Tax On Turkish Property"
                 >
                   Income Tax On Turkish Property
@@ -277,7 +277,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/capital-gains-tax-on-sale-of-turkish-property"
+                  
                   title="Capital Gains Tax On Sale Of Turkish Property"
                 >
                   Capital Gains Tax On Sale Of Turkish Property
@@ -285,7 +285,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/vat-exemption-when-buying-turkish-real-estate"
+                  
                   title="VAT exemption when buying Turkish real estate"
                 >
                   VAT exemption when buying Turkish real estate
@@ -293,7 +293,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/real-estate-inheritance-tax-in-turkey"
+                  
                   title="Real estate inheritance tax in Turkey"
                 >
                   Real estate inheritance tax in Turkey
@@ -311,7 +311,7 @@ export default function BuyerGuidetag() {
             <ul className="list-unstyled buyer-guide--ul hide">
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/retire-to-low-cost-of-living-in-turkey"
+                  
                   title="Retire to low cost of living in Turkey"
                 >
                   Retire to low cost of living in Turkey
@@ -319,7 +319,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/healthcare-and-medical-in-Turkey"
+                  
                   title="Healthcare in Turkey"
                 >
                   Healthcare in Turkey
@@ -327,7 +327,7 @@ export default function BuyerGuidetag() {
               </li>
               <li className="">
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/where-in-turkey-should-you-consider-buying-a-property"
+                  
                   title="Where to buy property in Turkey?"
                 >
                   Where to buy property in Turkey?
@@ -342,7 +342,7 @@ export default function BuyerGuidetag() {
                 title="Download Complete Buyer Guide"
               >
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/definitive-buyer-guide-pdf"
+                  
                   title="Download Complete Buyer Guide"
                 >
                   Download Complete Buyer Guide
@@ -411,7 +411,7 @@ export default function BuyerGuidetag() {
                 at an all time high. Istanbul real estate and Mediterranean
                 property in Turkey is now some of the most sought-after in the
                 northern hemisphere.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/why-invest-in-property-in-turkey">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -439,7 +439,7 @@ export default function BuyerGuidetag() {
                 Our step-by-step guide to buying real estate in Turkey lays out
                 exactly what you’ll need to do to ensure your purchase goes
                 without a hitch.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/How_to_buy_property_in_Turkey">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -457,7 +457,7 @@ export default function BuyerGuidetag() {
                 number of nationalities who can now buy homes in Turkey to 129.
                 The relaxed laws have prompted an increase in overseas buyers of
                 property.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/who-can-buy-property-in-turkey">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -475,7 +475,7 @@ export default function BuyerGuidetag() {
                   for a breakdown of costs associated with purchasing Turkish
                   real estate.{" "}
                   <a
-                    href="https://www.propertyturkey.com/buyer-guide/costs-of-purchasing-a-property-in-turkey"
+                    
                     rel="nofollow"
                   >
                     Read more.
@@ -494,7 +494,7 @@ export default function BuyerGuidetag() {
                 now eligible for Turkish citizenship. There are other options,
                 too, for business owners and investors.{" "}
                 <a
-                  href="https://www.propertyturkey.com/blog-turkey/turkish-citizenship-by-investment-process-and-guide"
+                  
                   rel="nofollow"
                 >
                   Read more
@@ -515,7 +515,7 @@ export default function BuyerGuidetag() {
                 and Cadastre General Directorate. Find out all you need to know
                 about{" "}
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/how-to-get-a-turkish-title-deed-tapu"
+                  
                   title=""
                 >
                   Turkish title deeds here
@@ -546,7 +546,7 @@ export default function BuyerGuidetag() {
                   holiday homes in Turkey is not expensive. You can appoint
                   professional management companies that will provide necessary
                   services from as low as Euro 600 per annum for apartments,{" "}
-                  <a href="https://www.propertyturkey.com/buyer-guide/property-maintenance-in-turkey-fees-and-costs">
+                  <a >
                     Read more
                   </a>
                 </span>
@@ -565,7 +565,7 @@ export default function BuyerGuidetag() {
                 option you’ll need to carefully consider the steps you’ll need
                 to take and the implications of operating a limited liability
                 company in Turkey. Read our guide for more information.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/buying-property-in-turkey-through-a-company">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -587,7 +587,7 @@ export default function BuyerGuidetag() {
                 fall into. Read our guide and discover the full advantages of
                 hiring a solicitor in Turkey and how to find a reputable
                 professional.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/should-i-use-a-solicitor-to-buy-property-in-turkey">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -604,7 +604,7 @@ export default function BuyerGuidetag() {
                 steps to complete your property purchase. Check our guide to
                 find out exactly what your solicitor needs to gain power of
                 attorney and what they can do for you.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/power-of-attorney-in-turkey">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -623,7 +623,7 @@ export default function BuyerGuidetag() {
                 financial institutions. Read our guide to financing property in
                 Turkey and then contact us to discover whether you’re eligible
                 for finance.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/finance-for-property-in-turkey">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -642,7 +642,7 @@ export default function BuyerGuidetag() {
                 residency permit is relatively straightforward. Read our guide
                 which lays out the process and requirements in terms of the
                 necessary documentation you’ll need.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/residency-permits-in-turkey">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -660,7 +660,7 @@ export default function BuyerGuidetag() {
                 home. Read more to discover the process by which a work permit
                 is obtained - as well as which jobs and professions are
                 restricted for overseas workers.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/work-permits-in-turkey">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -679,7 +679,7 @@ export default function BuyerGuidetag() {
                 culture differ from your own. Read our guide to setting up a
                 limited liability company and our tips for easing your
                 transition to working in a new country.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/how-to-set-up-a-business-in-turkey">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -698,7 +698,7 @@ export default function BuyerGuidetag() {
                 guide to find out more about the process of importing animals to
                 Turkey, as well as a few handy tips on dealing with airlines and
                 what equipment you’ll need.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/bringing-your-pets-into-turkey">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -716,7 +716,7 @@ export default function BuyerGuidetag() {
                 Turkey from their home country for use in Turkey. However, this
                 is generally not the case. Read our guide and weigh up the pros
                 and cons of buying a car in Turkey or importing one from home.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/bringing-your-car-into-turkey">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -736,7 +736,7 @@ export default function BuyerGuidetag() {
                 explains the different categories of tax in Turkey and breaks
                 down the laws pertaining to property income tax in easily
                 digestible pieces.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/income-tax-on-turkish-property">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -753,7 +753,7 @@ export default function BuyerGuidetag() {
                 Read our guide to find out the ins and outs of this tax and
                 whether there are any exemptions or clauses you need to be aware
                 of before you sell your home.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/capital-gains-tax-on-sale-of-turkish-property">
+                <a >
                   Read more.
                 </a>
                 &nbsp;
@@ -771,7 +771,7 @@ export default function BuyerGuidetag() {
                 a concession in place that means foreigners do NOT have to pay
                 VAT on their Turkish real estate investments.{" "}
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/vat-exemption-when-buying-turkish-real-estate"
+                  
                   title=""
                 >
                   Read more.
@@ -794,7 +794,7 @@ export default function BuyerGuidetag() {
                 information on not only the area’s real estate, but the ins and
                 outs of the local economy and lifestyle. Find out more about
                 inspection trips here.{" "}
-                <a href="https://www.propertyturkey.com/buyer-guide/inspection-trip">
+                <a >
                   Read more.
                 </a>
               </p>
@@ -822,7 +822,7 @@ export default function BuyerGuidetag() {
                 legal matters needed to get your property purchase completed
                 online.{" "}
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/virtual-tour-with-property-turkey"
+                  
                   title=""
                 >
                   Read more.
@@ -856,7 +856,7 @@ export default function BuyerGuidetag() {
                 Please make the best use of our Buyer Guide and should you have
                 any questions, do not hesitate to{" "}
                 <strong>
-                  <a href="https://www.propertyturkey.com/contact-us">
+                  <a >
                     contact
                   </a>
                 </strong>{" "}
@@ -864,7 +864,7 @@ export default function BuyerGuidetag() {
               </p>
               <p>
                 <a
-                  href="https://www.propertyturkey.com/buyer-guide/definitive-buyer-guide-pdf"
+                  
                   title=""
                 >
                   <img
@@ -890,10 +890,7 @@ export default function BuyerGuidetag() {
               <meta itemProp="height" content={800} />
               <meta itemProp="width" content={800} />
             </span>
-            <meta
-              itemProp="mainEntityOfPage"
-              content="https://www.propertyturkey.com/buyer-guide"
-            />
+
             <meta itemProp="datePublished" content="2013-05-19 07:09:16" />
             <meta itemProp="dateModified" content="2021-07-01 21:33:41" />
             <span
@@ -912,7 +909,6 @@ export default function BuyerGuidetag() {
                   content="https://www.propertyturkey.com/front/image/logo.png"
                 />
               </span>
-              <meta itemProp="url" content="https://www.propertyturkey.com" />
             </span>
             <div className=""></div>
           </article>

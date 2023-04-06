@@ -11,7 +11,7 @@ export default function Footer() {
             <li className="li-header">Popular Searches</li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey"
+                
                 title="Turkey houses"
               >
                 Turkey houses
@@ -19,7 +19,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/bodrum"
+                
                 title="Bodrum property for sale"
               >
                 Bodrum property for sale
@@ -27,7 +27,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/istanbul/apartment"
+                
                 title="Apartment for sale in Istanbul"
               >
                 Apartment for sale in Istanbul
@@ -35,7 +35,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/istanbul/villa"
+                
                 title="Istanbul Villas"
               >
                 Istanbul Villas
@@ -43,7 +43,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/bodrum/villa"
+                
                 title="Bodrum Villa"
               >
                 Bodrum Villa
@@ -51,7 +51,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/antalya/apartment"
+                
                 title="Apartment for sale in Antalya"
               >
                 Apartment for sale in Antalya
@@ -59,7 +59,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/antalya"
+                
                 title="Antalya homes"
               >
                 Antalya homes
@@ -75,7 +75,7 @@ export default function Footer() {
             <li className="li-header">Popular Locations</li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/istanbul"
+                
                 title="Istanbul"
               >
                 Istanbul
@@ -83,7 +83,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/bodrum"
+                
                 title="Bodrum"
               >
                 Bodrum
@@ -91,7 +91,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/fethiye"
+                
                 title="Fethiye"
               >
                 Fethiye
@@ -99,7 +99,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/antalya"
+                
                 title="Antalya"
               >
                 Antalya
@@ -107,7 +107,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/kalkan"
+                
                 title="Kalkan"
               >
                 Kalkan
@@ -115,7 +115,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/alanya"
+                
                 title="Alanya"
               >
                 Alanya
@@ -123,7 +123,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/kas"
+                
                 title="Kas"
               >
                 Kas
@@ -131,7 +131,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/bursa"
+                
                 title="Bursa"
               >
                 Bursa
@@ -139,7 +139,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/gocek"
+                
                 title="Gocek"
               >
                 Gocek
@@ -147,7 +147,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/side"
+                
                 title="Side"
               >
                 Side
@@ -155,7 +155,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/kemer"
+                
                 title="Kemer"
               >
                 Kemer
@@ -163,7 +163,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/dalyan"
+                
                 title="Dalyan"
               >
                 Dalyan
@@ -171,7 +171,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/izmir"
+                
                 title="Izmir"
               >
                 Izmir
@@ -179,7 +179,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/turkey/belek"
+                
                 title="Belek"
               >
                 Belek
@@ -195,7 +195,7 @@ export default function Footer() {
             <li className="li-header">Buyer Guide</li>
             <li>
               <a
-                href="https://www.propertyturkey.com/buyer-guide"
+                
                 title="Investing in turkey"
               >
                 Investing in turkey
@@ -203,7 +203,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/buyer-guide/costs-of-purchasing-a-property-in-turkey"
+                
                 title="Purchase process"
               >
                 Purchase process
@@ -211,7 +211,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/buyer-guide/residency-permits-in-turkey"
+                
                 title="Residency permits & visa"
               >
                 Residency permits &amp; visa
@@ -219,7 +219,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/property-turkeys-concierge-service"
+                
                 title="Concierge Service"
               >
                 Concierge Service
@@ -232,7 +232,7 @@ export default function Footer() {
             <li className="li-header">About us</li>
             <li>
               <a
-                href="https://www.propertyturkey.com/about-us"
+                
                 title="About us"
               >
                 About us
@@ -240,7 +240,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/about-us/london-team"
+                
                 title="London"
               >
                 London
@@ -248,7 +248,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/about-us/istanbul-team"
+                
                 title="Istanbul"
               >
                 Istanbul
@@ -256,7 +256,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/about-us/bodrum-team"
+                
                 title="Bodrum"
               >
                 Bodrum
@@ -264,7 +264,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/about-us/our-services-and-fees"
+                
                 title="Services and Fees"
               >
                 Services and Fees
@@ -280,7 +280,7 @@ export default function Footer() {
             <li className="li-header">Useful Links</li>
             <li>
               <a
-                href="https://www.propertyturkey.com/property-turkey-citizenship-by-investment-programme"
+                
                 title="Turkish Citizenship By investment"
               >
                 Turkish Citizenship By investment
@@ -288,7 +288,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/related-blogs/keyword?keyword=investment"
+                
                 title="Real Estate Investment Blogs"
               >
                 Real Estate Investment Blogs
@@ -296,7 +296,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/related-blogs/keyword?keyword=istanbul%20investment"
+                
                 title="Istanbul Investment Tips"
               >
                 Istanbul Investment Tips
@@ -304,7 +304,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/tv"
+                
                 title="PropertyTurkey TV"
               >
                 PropertyTurkey TV
@@ -312,7 +312,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/investment/turkey/istanbul"
+                
                 title="Istanbul Investments Properties"
               >
                 Istanbul Investments Properties
@@ -320,7 +320,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/contact-us/sell-your-home-with-property-turkey"
+                
                 title="Istanbul Investments Properties"
               >
                 Sell Your Property
@@ -328,7 +328,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/bargain/turkey"
+                
                 title="Bargain Properties"
               >
                 Bargain Properties
@@ -336,7 +336,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/beachfront/turkey"
+                
                 title="Beachfront Properties"
               >
                 Beachfront Properties
@@ -344,7 +344,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/luxury/turkey"
+                
                 title="luxury Properties"
               >
                 luxury Properties
@@ -352,7 +352,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/real_estate/investment/turkey"
+                
                 title="Investment Properties"
               >
                 Investment Properties
@@ -360,7 +360,7 @@ export default function Footer() {
             </li>
             <li>
               <a
-                href="https://www.propertyturkey.com/landing/design-build"
+                
                 title="Design & build"
               >
                 Design &amp; build
@@ -376,7 +376,7 @@ export default function Footer() {
         <ul className="list-inline">
           <li className="list-inline-item">
             <a
-              href="https://www.propertyturkey.com/become-partner"
+              
               style={{ display: "block" }}
             >
               <img
@@ -390,7 +390,7 @@ export default function Footer() {
           <li className="list-inline-item">
             <a
               className="buyerguide-virtualtour-icon-mobile"
-              href="https://www.propertyturkey.com/buyer-guide/virtual-tour-with-property-turkey"
+              
             >
               <img
                 src="https://www.propertyturkey.com/front/image/images2019/Images/Virtualtouring.svg"
@@ -403,7 +403,7 @@ export default function Footer() {
         </ul>
         <ul className="list-inline">
           <li className="list-inline-item">
-            <a href="https://www.propertyturkey.com/blog-turkey/why-were-joining-the-bitcoin-revolution">
+            <a >
               <img
                 src="https://www.propertyturkey.com/front/image/images2021/homepage/PT-coins.svg"
                 width={200}
@@ -416,33 +416,33 @@ export default function Footer() {
         <ul className="list-inline">
           <li className="list-inline-item bg-social-links">
             <a
-              href="https://www.facebook.com/Propertyturkeycom"
+              
               target="_blank"
             >
               <i className="fa fa-facebook " aria-hidden="true" />
             </a>
           </li>
           <li className="list-inline-item bg-social-links">
-            <a href="https://twitter.com/turkeypropertys" target="_blank">
+            <a  target="_blank">
               <i className="fa fa-twitter " aria-hidden="true" />
             </a>
           </li>
           <li className="list-inline-item bg-social-links">
             <a
-              href="https://www.instagram.com/propertyturkeycom/"
+              
               target="_blank"
             >
               <i className="fa fa-instagram " aria-hidden="true" />
             </a>
           </li>
           <li className="list-inline-item bg-social-links">
-            <a href="https://pinterest.com/PropertyTurkey/" target="_blank">
+            <a  target="_blank">
               <i className="fa fa-pinterest-p " aria-hidden="true" />
             </a>
           </li>
           <li className="list-inline-item bg-social-links">
             <a
-              href="https://www.youtube.com/user/PropertyTurkeyCom"
+              
               target="_blank"
             >
               <i className="fa fa-youtube-play " aria-hidden="true" />
@@ -455,36 +455,36 @@ export default function Footer() {
         >
           <div className="header-phone-items padding-right-2">
             <a
-              href="https://www.propertyturkey.com"
+              
               className="active"
               title="English"
             >
               EN
             </a>
             <a
-              href="https://www.propertyturkey.com/ru"
+              
               title="Russian"
               className=""
             >
               RU
             </a>
-            <a href="https://www.propertyturkey.com/ar" title="Arabic">
+            <a  title="Arabic">
               AR
             </a>
-            <a href="https://www.propertyturkey.com/de" title="German">
+            <a  title="German">
               DE
             </a>
-            <a href="https://www.propertyturkey.com/zh" title="Chinese">
+            <a  title="Chinese">
               中文
             </a>
-            <a href="https://www.propertyturkey.com/fa" title="Farsi">
+            <a  title="Farsi">
               FA
             </a>
           </div>
           <div className="currencyy flex-align-self-center">
             <a
               rel="nofollow"
-              href="https://www.propertyturkey.com/change-currency/3"
+              
               className=""
               title="Sterling Pound  "
             >
@@ -492,7 +492,7 @@ export default function Footer() {
             </a>
             <a
               rel="nofollow"
-              href="https://www.propertyturkey.com/change-currency/2"
+              
               className=""
               title="Euro "
             >
@@ -508,7 +508,7 @@ export default function Footer() {
             </a>
             <a
               rel="nofollow"
-              href="https://www.propertyturkey.com/change-currency/4"
+              
               className=""
               title="Turkish Lira "
             >

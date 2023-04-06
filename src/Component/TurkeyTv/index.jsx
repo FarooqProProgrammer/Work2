@@ -105,7 +105,7 @@ export default function TurkeyTv() {
               padding: ".5rem 2rem !important",
               backgroundColor: "transparent"
             }}
-            href="https://www.propertyturkey.com/tv?sort=latest"
+            
           >
             <span>View All</span>
           </a>

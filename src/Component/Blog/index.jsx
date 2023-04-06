@@ -12,7 +12,7 @@ export default function Blog() {
       </h2>
       <div className="col-dis-12 col-mob-12 right-padding-only w-tab-502">
         <a
-          href="https://www.propertyturkey.com/blog-turkey/big-life-by-the-little-bosphorus-istanbul"
+          
           title="Big Life by the Little Bosphorus Istanbul"
           className="blog-item featured-box w-tablet-502"
           itemScope=""
@@ -75,7 +75,7 @@ export default function Blog() {
       </div>
       <div className="col-dis-12 col-mob-12 right-padding-only w-tab-502">
         <a
-          href="https://www.propertyturkey.com/blog-turkey/turkish-citizenship-benefits-for-foreign-investors"
+          
           title="Turkish Citizenship benefits for Foreign Investors"
           className="blog-item featured-box w-tablet-502"
           itemScope=""
@@ -145,7 +145,7 @@ export default function Blog() {
       </h2>
       <div className="col-dis-12 col-mob-12 right-padding-only">
         <a
-          href="https://www.propertyturkey.com/blog-turkey/experience-old-constantinople-through-the-old-hippodrome"
+          
           title="Experience Old Constantinople Through the Old Hippodrome"
           className="blog-item featured-box w-tablet-502"
           itemScope=""
@@ -208,7 +208,7 @@ export default function Blog() {
       </div>
       <div className="col-dis-12 col-mob-12 right-padding-only">
         <a
-          href="https://www.propertyturkey.com/blog-turkey/famous-bosphorus-bridges-of-istanbul"
+          
           title="Famous Bosphorus Bridges of Istanbul"
           className="blog-item featured-box w-tablet-502"
           itemScope=""
@@ -273,7 +273,7 @@ export default function Blog() {
         <div className="blog-brb-custom">
           <a
             className="view-all-btn btn rednew-border"
-            href="https://www.propertyturkey.com/blog-turkey"
+            
           >
             <span>View All</span>
           </a>
@@ -291,7 +291,7 @@ export default function Blog() {
     <div className="d-mobile">
       <a
         className="view-all-btn btn rednew-border"
-        href="https://www.propertyturkey.com/blog-turkey"
+        
       >
         <span>View All</span>
       </a>
@@ -312,7 +312,7 @@ export default function Blog() {
       </h2>
       <div className="col-dis-12 col-mob-12 right-padding-only">
         <a
-          href="https://www.propertyturkey.com/news/turkey-to-designate-15-more-nature-conservation-areas"
+          
           title="Turkey to designate 15 more 'nature conservation areas'"
           className="featured-box blog-item w-tab-502"
           itemScope=""
@@ -375,7 +375,7 @@ export default function Blog() {
       </div>
       <div className="col-dis-12 col-mob-12 right-padding-only">
         <a
-          href="https://www.propertyturkey.com/news/january-tourism-records-broken-in-turkeys-antalya"
+          
           title="January tourism records broken in Turkey’s Antalya"
           className="featured-box blog-item w-tab-502"
           itemScope=""
@@ -439,7 +439,7 @@ export default function Blog() {
       <div className="text-center d-desk">
         <a
           className="view-all-btn btn rednew-border"
-          href="https://www.propertyturkey.com/news"
+          
         >
           <span>View All</span>
         </a>
@@ -448,7 +448,7 @@ export default function Blog() {
     <div className="text-center d-mobile">
       <a
         className="view-all-btn btn rednew-border"
-        href="https://www.propertyturkey.com/news"
+        
       >
         <span>View All</span>
       </a>

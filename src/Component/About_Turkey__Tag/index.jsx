@@ -682,15 +682,15 @@ export default function About_Turkey__Tag() {
                 </h2>
                 <p>
                   <strong>-&nbsp;</strong>
-                  <a href="https://www.propertyturkey.com/real_estate/turkey">
+                  <a href="">
                     Find property for sale in Turkey
                   </a>{" "}
                   <br />-{" "}
-                  <a href="https://www.propertyturkey.com/buyer-guide/why-invest-in-property-in-turkey">
+                  <a href="">
                     Why invest in property in Turkey
                   </a>{" "}
                   <br />-{" "}
-                  <a href="https://www.propertyturkey.com/buyer-guide">
+                  <a href="">
                     Property buyer guide
                   </a>
                 </p>

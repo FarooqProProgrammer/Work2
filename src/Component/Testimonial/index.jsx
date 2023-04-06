@@ -27,7 +27,7 @@ export default function Testimonial() {
             <h2 className="title-lined abhaya">
                 Our clients <strong className="grey-label">Testimonials</strong>
             </h2>
-            <div className="" style={{ marginLeft: 20 }}>
+            <div className="" style={{ marginLeft: 10 }}>
                 <Carousel responsive={responsive} >
                     <div
                         className="owl-item active"
@@ -194,7 +194,7 @@ export default function Testimonial() {
             </div>
             <div className="text-center p-3-sm padding-top-1">
                 <a
-                    href="https://www.propertyturkey.com/testimonials"
+                    
                     title="View all <b>Testimonials</b>"
                     className="btn sec-about--btn rednew-border bg-transparent"
                 >
