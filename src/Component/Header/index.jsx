@@ -22,6 +22,8 @@ const style = {
   p: 4,
 };
 
+
+
 export default function Header() {
 
   const [open, setOpen] = React.useState(false);
@@ -145,7 +147,7 @@ export default function Header() {
                   <Link to="propertyTurkey"><strong>Property Turkey TV</strong></Link>
                 </li>
                 <div className="showMb-hideDt auth header-right order-1 flex">
-                  <Link className="login fl-dis-right  fl-tab-right fl-mob-right" title="Login" rel="nofollow" data-fancybox data-src="#logins" to="javascript:;">Login</Link>
+                  <button className="login fl-dis-right  fl-tab-right fl-mob-right" onClick={handleOpen}>Login</button>
                   <Link className="login fl-dis-right  fl-tab-right fl-mob-right " title="Register" rel="nofollow" data-fancybox data-src="#registers" to="javascript:;">Register</Link>
                 </div>
                 <div className="header-phone-items order-3 showMb-hideDt ">
@@ -186,21 +188,23 @@ export default function Header() {
         </div>
       </header>
 
-
       <Modal
         open={open}
         onClose={handleClose}
         aria-labelledby="modal-modal-title"
         aria-describedby="modal-modal-description"
-        className='Model__Header'
       >
         <Box sx={style}>
-          <Box clas
-          >
-
-          </Box>
+          <Typography id="modal-modal-title" variant="h6" component="h2">
+            Text in a modal
+          </Typography>
+          <Typography id="modal-modal-description" sx={{ mt: 2 }}>
+            Duis mollis, est non commodo luctus, nisi erat porttitor ligula.
+          </Typography>
         </Box>
       </Modal>
+
+   
     </>
   )
 }
