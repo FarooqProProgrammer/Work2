@@ -717,7 +717,7 @@ export default function Header() {
                   </div>
                 </li>
                 <li>
-                  <Link to="/contact" title="Contact Us">
+                  <Link to="/" title="Contact Us">
                     <b>Contact Us</b></Link>
                 </li>
                 <li className="bold">
