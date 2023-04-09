@@ -7,17 +7,17 @@ import MobileStore from '../../Component/MobileStore'
 import Testimonial from '../../Component/Testimonial'
 import Hero from '../../Component/Hero'
 import TurkeyProperty from '../../Component/TurkeyProperty'
-import Recomended_Turkish_Property from '../../Component/Recomended_Turkish_Property'
 import TurkeyTv from '../../Component/TurkeyTv'
 import AdvisorDesk from '../../Component/AdvisorDesk'
 import HeroSection from '../../Component/Hero__Section'
+import RecomendedTurkishProperty from '../../Component/Recomended_Turkish_Property'
 
 export default function Home() {
   return (
     <div>
       <HeroSection />
       {/* <Hero /> */}
-      <Recomended_Turkish_Property />
+      <RecomendedTurkishProperty />
       <Citizen />
       {/* <TurkeyAdvisor /> */}
       <TurkeyProperty />

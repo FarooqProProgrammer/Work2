@@ -1,5 +1,5 @@
 import React from 'react'
-
+import './ContactusForm.css'
 export default function ContactusForm() {
   return (
     <div className="wrap-dis-9 wrap-tab-9 wrap-mob-9 clearfix">
